@@ -17,6 +17,7 @@ class MyList
             m_Pnums[i]=nums[i];
 
         };
+        ~MyList(){};
     
         void append(int a)
         {
