@@ -1,94 +1,114 @@
 #include<iostream>
 using namespace std;
 
+int StrLen(string enterstr)
+{
+    int count=0;
+    int i=0;
+    while (enterstr[i]!=0)
+    {
+        count++;
+        i++;
+    }
+    return count;    
+}
 class MyString
 {
     public:
-        int m_size;
+
         char* m_nums;
-        MyString(int enterSize, const char* enterNums):m_size(enterSize)
+
+        MyString(string enterNums)
         {
-            m_nums=new char[enterSize+1];
-            for (int i = 0; i < enterSize; i++)
+            m_nums=new char[StrLen(enterNums)+1];
+            int i=0;
+            for (i = 0; i < StrLen(enterNums); i++)
                 m_nums[i]=enterNums[i];   
-        }
-        ~MyString(){};
-        
-        void Print()
-        {
-            for (int i = 0; i < m_size; i++)
-            {
-                cout<<m_nums[i];
-            }   
+            m_nums[i]='\0';
         }
 
-        int Count(char c)
+        MyString(){}
+
+        ~MyString()
+        {
+            delete[] m_nums;
+        }
+
+        int size()const
         {
             int count=0;
-            for (int i = 0; i < m_size; i++)
+            int i=0;
+            while (m_nums[i]!=0)
             {
-                if(m_nums[i]==c)
-                    count++;
+                count++;
+                i++;
             }
-            return count;
+            return count;  
+        }
+        
+        void Assign(string str2)
+        {
+            m_nums=new char[StrLen(str2)+1];
+            for (int i = 0; i < StrLen(str2); i++)
+            {
+                m_nums[i]=str2[i];
+            }
+            m_nums[StrLen(str2)]='\0';
+       }
+
+        void AddLine()const
+        {
+            cout<<"\n";
         }
 
-        void append(char c)
+        void appandCharacter(char c)
         {
-            resize(m_size+1);
-            m_nums[m_size-1]=c;
-        }
-
-        void pop()
-        {
-            char* newString=new char[m_size-1];
-            for (int i = 0; i < m_size-1; i++)
+            char* newString=new char[size()+2];
+            for ( int i = 0; i < size() && m_nums[i]!=0; i++)
             {
                 newString[i]=m_nums[i];
             }
+            newString[size()]=c;
+            newString[size()+1]='\0';
             delete[]m_nums;
             m_nums=newString;
-            m_size=m_size-1;
-            
+             
         }
 
-        char* reverse()
+        void appandString(string str2)
         {
-            char* newString=new char[m_size];
-            for (int i = 0; i<m_size; i++)
+            int newSize=size() + StrLen(str2);
+            char* str3=new char[newSize+1];
+            for (int i = 0; i < size() && m_nums[i]!=0; i++)
             {
-                newString[i]=m_nums[m_size-1-i];
+                str3[i]=m_nums[i];
             }
-            return newString;
+            int j=0;
+            for (j = 0; j < StrLen(str2) && str2[j]!=0; j++)
+            {
+                str3[j+size()]=str2[j];
+            }
+            str3[j+size()]='\0';
+            delete[] m_nums;
+            m_nums= str3;
         }
-        private:
 
-            void resize(int newsize)
-            {
-                char* newString=new char[newsize];
-                for (int i = 0; i < m_size; i++)
-                {
-                    newString[i]=m_nums[i];
-                }
-                delete[]m_nums;
-                m_nums=newString;
-                m_size=newsize;  
-            }
+        string c_str()const
+        {   
+            return (string)m_nums;
+        }
 };
+
+
 int main()
 {
-    MyString S(12,"Parnya Azimi");
-    S.Print();
-    cout<<'\n';
-    // cout<<'\n'<<(S.Count('a'));
-    // S.Print();
-    // cout<<'\n';
-    // S.pop();
-    // S.Print();
-    char* out=S.reverse();
-    for (int i = 0; i < S.m_size; i++)
-    {
-        cout<<out[i];
-    }      
-
+    MyString S;
+    S.Assign("Parnya");
+    cout<<S.c_str();
+    S.AddLine();
+    S.appandCharacter('+');
+    S.appandString("Jeyran");
+    cout<<S.c_str();
+    S.AddLine();
+    cout<<"======";
 }

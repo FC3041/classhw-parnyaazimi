@@ -7,27 +7,29 @@ class MyList
 {
     public:
         int m_size;
+        int m_capasity=m_size*2;
         int* m_Pnums;
 
         MyList(int size,int* nums):m_size(size)
         {
-            m_Pnums=(int* )malloc(sizeof(int)*size);
+            m_Pnums=(int* )malloc(sizeof(int)*m_capasity);
             int i;
             for ( i = 0; i < m_size; i++)
             m_Pnums[i]=nums[i];
 
-        };
+        }
         ~MyList(){};
     
         void append(int a)
         {
             resizeAdd(m_size+1);
-            m_Pnums[m_size-1]=a;
+            m_Pnums[m_size]=a;
+            m_size++;
         }
-
+        
         void pop()
         {
-            int* NewArray=new int[m_size-1];    
+            int* NewArray=new int[m_capasity];    
             for (int i = 0; i < m_size-1; i++)
             {
                 NewArray[i]=m_Pnums[i];
@@ -36,7 +38,7 @@ class MyList
             m_Pnums=NewArray;
             m_size=m_size-1;     
         }
-
+        
         bool InList(int a)
         {
             bool flag=false;
@@ -51,12 +53,12 @@ class MyList
             return flag;
             
         }
-
+        
         void remove(int a)
         {
             if(InList(a)==true)
             {
-                int* NewArray=(int *)malloc(sizeof(int)*(m_size-1));
+                int* NewArray=(int *)malloc(sizeof(int)*(m_capasity));
                 int p=0; 
                 for (int i = 0; i < m_size; i++)
                 {
@@ -70,12 +72,12 @@ class MyList
                 {
                     if (j<p)
                         NewArray[j]=m_Pnums[j];
-                    else if (j>p)
+                        else if (j>p)
                         NewArray[j-1]=m_Pnums[j];        
-                }
-                free(m_Pnums);
-                m_Pnums=NewArray;
-                m_size=m_size-1;
+                    }
+                    free(m_Pnums);
+                    m_Pnums=NewArray;
+                    m_size=m_size-1;
             }
             else
             {
@@ -83,21 +85,30 @@ class MyList
                 m_size=m_size;
             }
         }
-
+        
         void insert(int a ,int index) 
         {
-            int* NewArray=new int[m_size+1];
+            int p=0;
+            if(m_size<m_capasity) 
+                p=m_capasity;
+            
+            else
+            {
+                m_capasity=m_size*2;
+                p=m_capasity;
+            }
+            int* NewArray=new int[p];
             for (int i = 0; i < m_size; i++)
             {
                 if (i<index)
-                    NewArray[i]=m_Pnums[i];
+                NewArray[i]=m_Pnums[i];
                 else if(i==index)
                 {
                     NewArray[i]=a;
                     NewArray[i+1]=m_Pnums[i];
                 }
                 else
-                    NewArray[i+1]=m_Pnums[i];        
+                NewArray[i+1]=m_Pnums[i];        
             }
             delete[]m_Pnums;
             m_Pnums=NewArray;
@@ -109,7 +120,7 @@ class MyList
             for (int i = 0; i < m_size; i++)
             {
                 if(i==index)   
-                    m_Pnums[i]=a;    
+                m_Pnums[i]=a;    
             }            
         }
 
@@ -126,7 +137,7 @@ class MyList
             }
             return out;
         }
-
+        
         void sort()
         {
             for (int i = 0; i < m_size; i++)
@@ -149,49 +160,67 @@ class MyList
             for (int i = 0; i < m_size; i++)
             {
                 if(m_Pnums[i]==a)
-                    count++;
+                count++;
             }
             return count;
             
         }
+
         void Print()
         {
             for (int i = 0; i < m_size; i++)
             {
-                cout<<m_Pnums[i]<<endl;
+                cout<<m_Pnums[i]<<" , ";
             }
 
         }
-
-    private:
-
+        
+        private:
+        
         void resizeAdd(int NewSize)
         {
-            int* NewArray= (int*)malloc(sizeof(int)*NewSize);
-            for (int i = 0; i < m_size; i++)
+            if(NewSize>m_capasity)
             {
-                NewArray[i] = m_Pnums[i];
+                int* NewArray= (int*)malloc(sizeof(int)*m_size*2);
+                for (int i = 0; i < m_size; i++)
+                {
+                    NewArray[i] = m_Pnums[i];
+                }
+                free(m_Pnums);
+                m_capasity=m_size*2;
+                m_Pnums=NewArray;
             }
-            free(m_Pnums);
-            m_size=NewSize;
-            m_Pnums=NewArray;
         };
 };
     
     int main()
     {
-        int nums[7]={16,1,5,1,9,2,1};
-        MyList m (7,nums);
-        // m.append(14);
-        // m.remove(5);
-        // m.pop();
-        // m.insert(9,2);
-        // m.insert(18,5);
-        // m.update(8,4);
-        // cout<<m.find(5);
+        // MyList();
+        int nums[1]={1};
+        MyList m (1,nums);
+        // cout<<"\nIndex of 18 : "<<m.findIndex(18);
+        // cout<<"\ncout 16 : "<<m.Count(16)<<"\n";
         // m.sort();
         // m.Print();
-        int out =(m.Count(1));
-        cout<<out;
+        // m.update(4,1);
+        // cout<<"\n";
+        // m.Print();
+        // cout<<"\n"<<m.InList(8);
+        // cout<<"=====";
+        // m.pop();
+        // cout<<"\n";
+        // m.Print();
+        m.append(14);
+        m.append(15);
+        m.append(16);
+        m.append(17);
+        m.append(18);
+        m.Print();
+        m.insert(500,0);
+        m.insert(400,3);
+        m.insert(200,6);
+        cout<<"\n";
+        m.Print();
+
         
     }
