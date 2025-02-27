@@ -75,18 +75,18 @@ class MyString
              
         }
 
-        void appandString(string str2)
+        void appandString(MyString str2)
         {
-            int newSize=size() + StrLen(str2);
+            int newSize=size() + str2.size();
             char* str3=new char[newSize+1];
             for (int i = 0; i < size() && m_nums[i]!=0; i++)
             {
                 str3[i]=m_nums[i];
             }
             int j=0;
-            for (j = 0; j < StrLen(str2) && str2[j]!=0; j++)
+            for (j = 0; j < str2.size() && str2.m_nums[j]!=0; j++)
             {
-                str3[j+size()]=str2[j];
+                str3[j+size()]=str2.m_nums[j];
             }
             str3[j+size()]='\0';
             delete[] m_nums;
@@ -96,6 +96,15 @@ class MyString
         string c_str()const
         {   
             return (string)m_nums;
+        }
+
+        void Print()
+        {
+            for (int i = 0; i < size(); i++)
+            {
+                cout<<m_nums[i];
+            }
+            
         }
 };
 
@@ -107,8 +116,10 @@ int main()
     cout<<S.c_str();
     S.AddLine();
     S.appandCharacter('+');
-    S.appandString("Jeyran");
+    MyString name2("Jeyran");
+    S.appandString(name2);
     cout<<S.c_str();
     S.AddLine();
-    cout<<"======";
+    cout<<"======\n";
+    S.Print();
 }
