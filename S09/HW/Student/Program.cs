@@ -50,40 +50,52 @@ public class Student
 }
 class Program
 {
-    static void Main(string[] args)
-    {
-        int count=0;
-        while(true)
-       { 
-            Console.WriteLine("Do You want to register a new student? ");
-                if(Console.ReadLine()=="No")
-                    break;
-            Console.WriteLine("Enter name of student : ");
-            string name=Console.ReadLine();
-            Console.WriteLine("Enter student_id of student : ");
-            int student_id=Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Enter national_id of student : ");
-            ulong national_id=Convert.ToUInt64(Console.ReadLine());
-            Console.WriteLine("Enter creadits of student : ");
-            int creadits=Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Enter active of student : ");
-            bool active=Convert.ToBoolean(Console.ReadLine());
-            Student newStudent=new Student(name,student_id,national_id,creadits,active);
-            count++;
-            File.AppendAllLines("Student.csv",new string[]{$"{count} : Student",newStudent.ToString()});
-        }
-
-    }
-
     // static void Main(string[] args)
     // {
-    //     string name=args[0];
-    //     int student_id=Convert.ToInt32(args[1]);
-    //     ulong national_id=Convert.ToUInt64(args[2]);
-    //     int creadits=Convert.ToInt32(args[3]);
-    //     bool active=Convert.ToBoolean(args[4]);
-    //     Student newStudent=new Student(name,student_id,national_id,creadits,active);
-    //     File.AppendAllLines("Student2.csv",new string[]{newStudent.ToString()});        
+    //     int count=0;
+    //     while(true)
+    //    { 
+    //         Console.WriteLine("Do You want to register a new student? ");
+    //             if(Console.ReadLine()=="No")
+    //                 break;
+    //         Console.WriteLine("Enter name of student : ");
+    //         string name=Console.ReadLine();
+    //         Console.WriteLine("Enter student_id of student : ");
+    //         int student_id=Convert.ToInt32(Console.ReadLine());
+    //         Console.WriteLine("Enter national_id of student : ");
+    //         ulong national_id=Convert.ToUInt64(Console.ReadLine());
+    //         Console.WriteLine("Enter creadits of student : ");
+    //         int creadits=Convert.ToInt32(Console.ReadLine());
+    //         Console.WriteLine("Enter active of student : ");
+    //         bool active=Convert.ToBoolean(Console.ReadLine());
+    //         Student newStudent=new Student(name,student_id,national_id,creadits,active);
+    //         count++;
+    //         File.AppendAllLines("Student.csv",new string[]{$"{count} : Student",newStudent.ToString()});
+    //     }
+
     // }
+
+    static void Main(string[] args)
+    {
+        if(args.Length==6 && args[0]=="register")
+        {
+            string name=args[1];
+            int student_id=Convert.ToInt32(args[2]);
+            ulong national_id=Convert.ToUInt64(args[3]);
+            int credits=Convert.ToInt32(args[4]);
+            bool active=Convert.ToBoolean(args[5]);          
+            Student newStudent=new Student(name,student_id,national_id,credits,active);
+            File.AppendAllLines("Student2.csv",new string[]{newStudent.ToString()});        
+        }
+        if(args.Length==1 && args[0]=="list")
+        {
+            string[] Students=File.ReadAllLines("Student2.csv");
+            for (int i = 0; i < Students.Length; i++)
+            {
+                Console.WriteLine(Students[i]);
+                
+            }
+        }
+    }
 
 }
