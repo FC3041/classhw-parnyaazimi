@@ -1,4 +1,5 @@
 ﻿using System.Runtime.InteropServices;
+using Microsoft.VisualBasic;
 
 namespace LINQ_EX;
 
@@ -126,15 +127,37 @@ class Program
                                 l.DataGender==DataGender.Both
                         )
                         .GroupBy(t=>t.Country)
+                        .Select
+                        (
+                            g=>
+                            {
+                                var min = g.OrderBy(t => t.Value).First();
+                                var max = g.OrderBy(t => t.Value).Last();
+                                return(
+                                       country:g.Key,
+                                       year:min.Year,
+                                       minValue:min.Value,
+                                       diff:Math.Abs(min.Value-max.Value));
+                            }
+                        )
+                        .OrderBy(t=>t.diff)
                         .ToList()
                         .ForEach(t=>System.Console.WriteLine(t));
         Console.WriteLine();
 
-        // //Query 4
-        // Console.WriteLine("Query 4");
-        // //
-        // //
-        // Console.WriteLine();
+        //Query 4
+        Console.WriteLine("Query 4");
+        var data4=File.ReadAllLines("data.csv")
+                        .Skip(1)
+                        .Select(l=>Data.Parse(l))
+                        .Where(l =>l.LEType==LifeExpectancyType.AtBirth);
+        data4.Join(data4,
+                 (d1)=>(d1.Country,d1.Year),
+                 (d2)=>(d2.Country,d2.Year),
+                 (d1,d2)=>(country:d1.Country, y1:d1.Year, y2:d2.Year, r1:d1.DataGender, r2:d2.DataGender)
+        )
+        .GroupBy(t=>t.country);
+        Console.WriteLine();
 
     }
 }
