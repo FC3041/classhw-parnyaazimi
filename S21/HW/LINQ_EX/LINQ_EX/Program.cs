@@ -72,13 +72,14 @@ class Program
                                 return(country:l.Country,Indicator:l.LEType,Gender:l.DataGender,year:l.Year,DisplayValue:l.Value);
                             }
                         )
+                        .OrderBy(t=>t.DisplayValue)
                         .ToList()
-                        .ForEach(t=>System.Console.WriteLine(t));
+                        .ForEach(t=>Console.WriteLine(t));
         Console.WriteLine();
 
-        //Query 2
+        // //Query 2
         Console.WriteLine("Query 2");
-        var data1=File.ReadAllLines("data.csv")
+        File.ReadAllLines("data.csv")
                         .Skip(1)
                         .Select(l=>Data.Parse(l))
                         .Where
@@ -95,68 +96,79 @@ class Program
                                 return(country:l.Country,Indicator:l.LEType,Gender:l.DataGender,year:l.Year,DisplayValue:l.Value);
                             }
                         )
-                        .ToList();
-        data1.Join(data1,
-                   (d1)=>d1.country,
-                   (d2)=>d2.country,
-                   (d1,d2)=>(country:d1.country,DisplayValued1:d1.DisplayValue, DisplayValued2:d2.DisplayValue))
-        .GroupBy(t=>t.country)  
-        .Select
-        (
-            g=>
-            {
-                var maxdiff = g.MaxBy(t=>Math.Abs(t.DisplayValued1-t.DisplayValued2));
-                return (country:g.Key, diff:Math.Abs(maxdiff.DisplayValued2-maxdiff.DisplayValued1));                
-            }
-        )
-        .OrderBy(t=>t.diff)
-        .ToList()
-        .ForEach(l=>System.Console.WriteLine((l)));
-              
-        Console.WriteLine();
-
-        //Query 3
-        Console.WriteLine("Query 3");
-        File.ReadAllLines("data.csv")
-                        .Skip(1)
-                        .Select(l=>Data.Parse(l))
-                        .Where
-                        (
-                            l =>
-                                l.LEType==LifeExpectancyType.AtBirth &&
-                                l.DataGender==DataGender.Both
-                        )
-                        .GroupBy(t=>t.Country)
+                        .GroupBy(t=>t.country)
                         .Select
                         (
                             g=>
                             {
-                                var min = g.OrderBy(t => t.Value).First();
-                                var max = g.OrderBy(t => t.Value).Last();
-                                return(
-                                       country:g.Key,
-                                       year:min.Year,
-                                       minValue:min.Value,
-                                       diff:Math.Abs(min.Value-max.Value));
+                                var min=g.MinBy(t=>t.DisplayValue);
+                                var max=g.MaxBy(t=>t.DisplayValue);
+                                return Math.Abs(min.DisplayValue-max.DisplayValue);                                
                             }
                         )
-                        .OrderBy(t=>t.diff)
                         .ToList()
-                        .ForEach(t=>System.Console.WriteLine(t));
+                        .ForEach(n=>Console.WriteLine(n));
+              
         Console.WriteLine();
+
+        // Query 3
+        Console.WriteLine("Query 3");
+        File.ReadAllLines("data.csv")
+            .Skip(1)
+            .Select(l=>Data.Parse(l))
+            .Where(dt=>dt.DataGender==DataGender.Both && dt.LEType==LifeExpectancyType.AtBirth)
+            .GroupBy(dt=>dt.Country)
+            .Select
+            (
+                (g,Index)=>
+                {
+                    var min=g.MinBy(t=>t.Value);
+                    var max=g.MaxBy(t=>t.Value);
+                    return(Index+1,country:g.Key , year:min.Year , minValu:min.Value , diff: Math.Abs(min.Value-max.Value));
+                }
+            )
+            .ToList()
+            .ForEach(dt=>System.Console.WriteLine(dt));
+        Console.WriteLine();
+
+
+
 
         //Query 4
         Console.WriteLine("Query 4");
-        var data4=File.ReadAllLines("data.csv")
-                        .Skip(1)
-                        .Select(l=>Data.Parse(l))
-                        .Where(l =>l.LEType==LifeExpectancyType.AtBirth);
-        data4.Join(data4,
-                 (d1)=>(d1.Country,d1.Year),
-                 (d2)=>(d2.Country,d2.Year),
-                 (d1,d2)=>(country:d1.Country, y1:d1.Year, y2:d2.Year, r1:d1.DataGender, r2:d2.DataGender)
-        )
-        .GroupBy(t=>t.country);
+        File.ReadAllLines("data.csv")
+                    .Skip(1)
+                    .Select(l=>Data.Parse(l))
+                    .Where(l =>l.LEType==LifeExpectancyType.AtBirth)
+                    .GroupBy(l=>new { l.Year, l.Country })
+                    .Select
+                    (
+                        g=>
+                        {
+                            var IsMale=g.FirstOrDefault(l=>l.DataGender==DataGender.Male);
+                            var IsFeMale=g.FirstOrDefault(l=>l.DataGender==DataGender.Female);
+                            return(country:IsMale.Country, 
+                                   year:IsMale.Year, 
+                                   ValueFemale:IsFeMale.Value, 
+                                   ValueMale:IsMale.Value,
+                                   diff:Math.Abs(IsMale.Value-IsFeMale.Value));
+                        }
+                    )
+                    .GroupBy(t=>t.country)
+                    .Select
+                    (
+                        g=>
+                        {
+                            return g.OrderByDescending(t=>t.diff).First();
+                        }
+                    )
+                    .OrderByDescending(t=>t.diff)
+                    .Select
+                    (
+                        (t, index) =>(index + 1,t.country,t.year,t.ValueMale,t.ValueFemale,t.diff)
+                    )
+                    .ToList()
+                    .ForEach(t=>System.Console.WriteLine(t));
         Console.WriteLine();
 
     }
