@@ -1,0 +1,482 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="utf-8">
+    <title>ایتا - تابناک</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="format-detection" content="telephone=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="MobileOptimized" content="176">
+    <meta name="HandheldFriendly" content="True">
+    <meta property="og:title" content="ایتا - تابناک">
+    <meta property="og:image" content="https://eitaa.com/img/e_logo.png">
+    <meta property="og:site_name" content="Eitaa">
+    <meta property="og:description" content="پیام رسان ایرانی ایتا Eitaa">
+
+    <meta property="twitter:title" content="ایتا - تابناک">
+    <meta property="twitter:image" content="https://eitaa.com/img/e_logo.png">
+    <meta property="twitter:site" content="@Eitaa">
+
+    <meta property="al:android:url" content="et://resolve?domain=tabnak&post=193098">
+    <meta property="al:android:app_name" content="Eitaa">
+    <meta property="al:android:package" content="ir.eitaa.messenger">
+
+    <link rel="icon" type="image/svg+xml" href="/img/website_icon.svg">
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
+    <link rel="alternate icon" href="/img/favicon.ico" type="image/x-icon"/>
+        <link href="/css/font.css" rel="stylesheet" type="text/css">
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/css/eitaa.css" rel="stylesheet" media="screen">    <link href="/css/widget-frame.css?1" rel="stylesheet" media="screen">
+    <link href="/css/eitaa-web.css?2" rel="stylesheet" media="screen">
+    <link href="/assets/bootstrap/css/bootstrap-grid.min.css" rel="stylesheet" media="screen">
+    <script>EBaseUrl = '/';</script>
+        <link rel="prev" href="/tabnak?before=193094">
+                    <link rel="next" href="/tabnak?after=193102">
+                <link rel="canonical" href="/tabnak?before=193103">    <script>window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches && document.documentElement && document.documentElement.classList && document.documentElement.classList.add('theme_dark');</script>
+</head>
+<body  class="widget_frame_base etme_webpreview emoji_image thin_box_shadow eme_mode no_transition">
+    <div class="etme_background_wrap">
+        <canvas id="etme_background" class="etme_background default" width="50" height="50" data-colors="dbddbb,6ba587,d5d88d,88b884"></canvas>
+        <div class="etme_background_pattern default"></div>
+    </div>
+    <header class="etme_header search_collapsed">
+        <img alt="eitaa logo" class="d-none d-lg-block" style="height:30px;position: fixed;top: 8px;left: 8px" src="/img/Eitaa-Logo-Full.svg">
+        <div class="etme_container">
+            <div id="date-float" class="etme_widget_message_service_date" dir="rtl" style="visibility: hidden;position:fixed;top:60px;left:39%">۱۷ مهر</div>
+            <div class="etme_header_search">
+                <form class="etme_header_search_form" action="/tabnak">
+                    <svg class="etme_header_search_form_icon" width="20" height="20" viewBox="0 0 20 20">
+                        <g fill="none" stroke="#7D7F81" stroke-width="1.4">
+                            <circle cx="9" cy="9" r="6"></circle>
+                            <path d="M13.5,13.5 L17,17" stroke-linecap="round"></path>
+                        </g>
+                    </svg>
+                    <input class="etme_header_search_form_input js-header_search" placeholder="جستجو" name="q" autocomplete="off" value="" dir="auto" title="جستجو"/>
+                    <a href="/tabnak" class="etme_header_search_form_clear">
+                        <svg class="etme_action_button_icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" width="20" height="20">
+                            <g class="icon_body" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-width="1.5">
+                                <path d="M6 14l8-8m0 8L6 6" stroke-dasharray="0,11.314" stroke-dashoffset="5.657"/>
+                                <path d="M26 14l8-8m0 8l-8-8" stroke-dasharray="0.371,10.943" stroke-dashoffset="5.842"/>
+                                <path d="M46 14l8-8m0 8l-8-8" stroke-dasharray="1.982,9.332" stroke-dashoffset="6.647756"/>
+                                <path d="M66 14l8-8m0 8l-8-8" stroke-dasharray="5.173,6.14" stroke-dashoffset="8.243"/>
+                                <path d="M86 14l8-8m0 8l-8-8" stroke-dasharray="7.866,3.448" stroke-dashoffset="9.59"/>
+                                <path d="M106 14l8-8m0 8l-8-8" stroke-dasharray="9.471,1.843" stroke-dashoffset="10.392"/>
+                                <path d="M126 14l8-8m0 8l-8-8" stroke-dasharray="10.417,0.896" stroke-dashoffset="10.866"/>
+                                <path d="M146 14l8-8m0 8l-8-8" stroke-dasharray="10.961,0.353" stroke-dashoffset="11.137"/>
+                                <path d="M166 14l8-8m0 8l-8-8" stroke-dasharray="11.234,0.08" stroke-dashoffset="11.274"/>
+                                <path d="M186 14l8-8m0 8l-8-8"/>
+                            </g>
+                        </svg>
+                    </a>
+                </form>
+            </div>
+            <div class="etme_header_right_column">
+                <section class="etme_right_column">
+                    <div class="etme_channel_info">
+                        <div class="etme_channel_info_header" dir="rtl">
+                            <i class="etme_page_photo_image bgcolor5" data-content=""><img src="/download_f0da6c45a13ba8bb1091fd26e2cea116?token=78da01b4004bff10000000cdb0a4909e1fc748998934a421d6ede9fb8c8a99f6c8926c8be6c0a1d351a266ce21226c61874d657f2900b5fb9ef4aa64de9146769763ec6b8dcd8a0380297934366fbecec28af0a1ddd1607688a25b74628b7bdc36118d1c8e8569a56b2df0679f8a2d3a9031d4bc57fc27e0c0ea15786d062c6dd7084dcc816ddc7e39354c1f1ee00f1d11484a1fef0599e53b845f813b4f67b4fe9b23d2ec879d9ae46959e80bf26bc5397974eb29d760683995f63c4c5a19" alt=""></i>
+                            <div class="etme_channel_info_header_title_wrap">
+                                <div class="etme_channel_info_header_title"><span dir="auto">تابناک</span></div>
+                                                                    <div class="etme_channel_info_header_labels"><i class="verified-icon"> ✔</i></div>
+                                                            </div>
+                            <div class="etme_channel_info_header_username"><a dir="auto" href="/tabnak">@tabnak</a></div>
+                        </div>
+                        <div class="etme_channel_info_counters">
+                            <div class="etme_channel_info_counter"><span class="counter_value" data-count="39703">39.7هزار</span> <span class="counter_type">دنبال‌کننده</span></div>
+                                                            <div class="etme_channel_info_counter"><span class="counter_value" data-count="97069">97.1هزار</span> <span class="counter_type">عکس</span></div>
+                                <div class="etme_channel_info_counter"><span class="counter_value" data-count="32578">32.6هزار</span> <span class="counter_type">ویدیو</span></div>
+                                <div class="etme_channel_info_counter"><span class="counter_value" data-count="250">250</span> <span class="counter_type">فایل</span></div>
+                                                        </div>
+                        <div class="etme_channel_info_description" dir="auto" style="white-space: pre-wrap">✔&diams;️مرجع اخبار ایران و جهان در پیام رسان ایتا
+
+
+💻 سایت
+<a dir="auto" href="http://www.tabnak.ir" rel="nofollow" target="_blank">www.tabnak.ir</a>
+
+📱تلگرام
+<a dir="auto" href="http://t.me/TeleTabnak" rel="nofollow" target="_blank">t.me/TeleTabnak</a>
+
+📮 سفارش تبلیغات
+tel:09124059541
+
+روبیکا
+<a dir="auto" href="https://rubika.ir/tabnak" rel="nofollow" target="_blank">https://rubika.ir/tabnak</a></div>
+                        <a class="etme_channel_download_eitaa" href="/s/tabnak/">
+                            <svg class="etme_channel_download_eitaa_icon" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="18px" height="18px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" viewBox="0 0 50 50"><g>
+                                    <path fill="#ffffff" d="M14 0l21 0c7.7,0 14,6.29 14,13.99l0 6.75c-6.9,3.11 -13.87,18.43 -24.02,15.1 -0.83,0.6 -2.76,3.04 -2.89,4.9 -3.52,-0.47 -7.57,-4.49 -7.08,-8.84 -5.85,-4.23 -1.03,-12.04 3.61,-15.18 9.95,-6.74 23.75,-0.95 16.07,3.87 -4.67,2.93 -14.65,4.87 -13.61,-2.33 -2.74,0.79 -4.49,5.9 -1.2,8.56 -3.05,3 -2.46,8.52 0.8,10.33 3.31,-8.56 14.8,-7.44 19.44,-17.65 3.49,-7.68 -1.68,-16.44 -12.04,-15.09 -7.82,1.01 -15.14,7.61 -18.81,15.42 -3.71,7.94 -3.16,18.56 4.47,23.92 8.98,6.3 18.55,0.46 24.34,-7.16 3.41,-4.5 6.4,-9.48 10.92,-12.35l0 11.97c0,7.7 -6.3,14.01 -14,14.01l-21 0c-7.7,0 -14,-6.3 -14,-14l0 -22.22c0,-7.7 6.3,-14 14,-14l0 0z"/>
+                                </g></svg>
+                            مشاهده در ایتا
+                        </a>
+                        <div class="etme_footer">
+                            <div class="etme_footer_column">
+                                <h5><a href="/faq">پرسش‌ها</a></h5>
+                            </div>
+                            <div class="etme_footer_column">
+                                <h5><a href="/pg/terms">قوانین</a></h5>
+                            </div>
+                            <div class="etme_footer_column">
+                                <h5><a href="https://trends.eitaa.com/">داغ‌ترین‌ها</a></h5>
+                            </div>
+                            <div class="etme_footer_column">
+                                <h5><a href="/#downloading">چندسکویی</a></h5>
+                            </div>
+                        </div>
+                        <img src="/cv.jpg" alt="" style="display:none;" rel="nofollow">
+                    </div>
+                </section>
+            </div>
+            <div class="etme_header_info">
+                <a class="etme_channel_join_eitaa" href="https://eitaa.com/s/tabnak/">
+                    <svg class="etme_channel_join_eitaa_icon" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="18px" height="18px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" viewBox="0 0 50 50"><g>
+                            <path fill="#ffffff" d="M14 0l21 0c7.7,0 14,6.29 14,13.99l0 6.75c-6.9,3.11 -13.87,18.43 -24.02,15.1 -0.83,0.6 -2.76,3.04 -2.89,4.9 -3.52,-0.47 -7.57,-4.49 -7.08,-8.84 -5.85,-4.23 -1.03,-12.04 3.61,-15.18 9.95,-6.74 23.75,-0.95 16.07,3.87 -4.67,2.93 -14.65,4.87 -13.61,-2.33 -2.74,0.79 -4.49,5.9 -1.2,8.56 -3.05,3 -2.46,8.52 0.8,10.33 3.31,-8.56 14.8,-7.44 19.44,-17.65 3.49,-7.68 -1.68,-16.44 -12.04,-15.09 -7.82,1.01 -15.14,7.61 -18.81,15.42 -3.71,7.94 -3.16,18.56 4.47,23.92 8.98,6.3 18.55,0.46 24.34,-7.16 3.41,-4.5 6.4,-9.48 10.92,-12.35l0 11.97c0,7.7 -6.3,14.01 -14,14.01l-21 0c-7.7,0 -14,-6.3 -14,-14l0 -22.22c0,-7.7 6.3,-14 14,-14l0 0z"/>
+                        </g></svg>
+                    پیوستن
+                </a>
+                <a class="etme_header_link" href="/tabnak">
+                    <i class="etme_page_photo_image bgcolor5" data-content="">
+                        <img src="/download_f0da6c45a13ba8bb1091fd26e2cea116?token=78da01b4004bff10000000cdb0a4909e1fc748998934a421d6ede9fb8c8a99f6c8926c8be6c0a1d351a266ce21226c61874d657f2900b5fb9ef4aa64de9146769763ec6b8dcd8a0380297934366fbecec28af0a1ddd1607688a25b74628b7bdc36118d1c8e8569a56b2df0679f8a2d3a9031d4bc57fc27e0c0ea15786d062c6dd7084dcc816ddc7e39354c1f1ee00f1d11484a1fef0599e53b845f813b4f67b4fe9b23d2ec879d9ae46959e80bf26bc5397974eb29d760683995f63c4c5a19" alt="">
+                    </i>
+                    <div class="etme_header_title_wrap">
+                        <div class="etme_header_title"><span dir="auto">تابناک</span></div>
+                                                    <div class="etme_header_labels"><i class="verified-icon"> ✔</i></div>                    </div>
+                    <div class="etme_header_counter" data-participants_count="39703"><span dir="rtl">39.7هزار دنبال‌کننده</span></div>
+                </a>
+            </div>
+        </div>
+        <a class="etme_head_right_btn d-none d-lg-block" style="min-width:80px;position:fixed;right:8px;top:8px;color:#fff;" rel="nofollow" href="/dl?_=255385">دانلود</a>
+    </header>
+    <main class="etme_main" data-url="/tabnak">
+        <div class="etme_container">
+            <section class="etme_channel_history js-message_history">
+                        <div class="etme_widget_message_centered js-messages_more_wrap">
+        <a href="/tabnak?before=193094" class="eme_messages_more js-messages_more" data-before="193094"><span>مطالب قبلی</span></a>
+        </div>        <div class="etme_widget_message_wrap js-widget_message_wrap" id="193094">
+                    <div class="etme_widget_message text_not_supported_wrap js-widget_message" data-post="tabnak/193094" data-view="eyJjIjoxLCJwIjoyLCJ0IjozLCJoIjoiIn0=">
+            <div class="etme_widget_message_user"><a href="/tabnak"><i class="etme_widget_message_user_photo bgcolor5" data-content=""><img src="/download_f0da6c45a13ba8bb1091fd26e2cea116?token=78da01b4004bff10000000cdb0a4909e1fc748998934a421d6ede9fb8c8a99f6c8926c8be6c0a1d351a266ce21226c61874d657f2900b5fb9ef4aa64de9146769763ec6b8dcd8a0380297934366fbecec28af0a1ddd1607688a25b74628b7bdc36118d1c8e8569a56b2df0679f8a2d3a9031d4bc57fc27e0c0ea15786d062c6dd7084dcc816ddc7e39354c1f1ee00f1d11484a1fef0599e53b845f813b4f67b4fe9b23d2ec879d9ae46959e80bf26bc5397974eb29d760683995f63c4c5a19" alt=""></i></a></div>
+            <div class="etme_widget_message_bubble">
+                <i class="etme_widget_message_bubble_tail">
+                    <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                        <g fill="none">
+                            <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                            <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                            <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                            <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                        </g>
+                    </svg>
+                </i>
+                <div class="etme_widget_message_author accent_color"><a class="etme_widget_message_owner_name" href="/tabnak"><span dir="auto">تابناک</span></a></div>
+                                                            <a class="etme_widget_message_photo_wrap" href="/s/tabnak/193094" style="width:90px;background-image: url('/download_34916429845fe1ef3fa82537d3b2e2f7?token=78da01aa0055ff10000000148428a21efa1fe49f30124afbd44d06fb8c8a99f6c8926c8be6c0a1d856a462cb29276662874e6c762f09b5fb95f6a861d89940729164e86b90cd8a0380297a34306abdcec38afcfcd1d2687180a55d7364887f8a3646df1d8ad433f23d78f462cc842b3e9031d1b80dfc75bbcebe1b2c6d0e7c688e544accdb3985256a66481349b60218144c4916ef0590e53ddd04db3b1434e5919f7184ef84f2cde46c31e20ef466c2518d3f5305')">
+                                <div class="etme_widget_message_photo" style="padding-top:55.555555555556%"></div>
+                            </a>
+                                            <div class="etme_widget_message_text js-message_text" style="white-space: pre-wrap" dir="rtl">🔺رئیس جمهور در تبریز دست به تیغ شد
+
+🔹در اقدامی کم‌سابقه، مسعود پزشکیان، رئیس‌جمهور و جراح قلب کشور، در جریان سفر غیر رسمی خود به تبریز، بار دیگر به اتاق عمل بازگشت و شخصاً عمل جراحی مریضی که دچار مشکل قلبی بود را در بیمارستان شهید مدنی این شهر انجام داد.
+
+<a href="https://eitaa.com/tabnak" dir="auto">@Tabnak</a></div>
+                <div class="etme_widget_message_footer compact js-message_footer">
+
+                    <div class="etme_widget_message_info short js-message_info">
+                        <span class="etme_widget_message_views" data-count="1658">1.7هزار</span><span class="copyonly"> مشاهده</span><span class="etme_widget_message_meta"><a class="etme_widget_message_date" href="/s/tabnak/193094"><time datetime="2025-05-22T13:04:34+00:00" class="time">13:04</time></a></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+                </div>
+                <div class="etme_widget_message_wrap js-widget_message_wrap" id="193095">
+                    <div class="etme_widget_message text_not_supported_wrap js-widget_message" data-post="tabnak/193095" data-view="eyJjIjoxLCJwIjoyLCJ0IjozLCJoIjoiIn0=">
+            <div class="etme_widget_message_user"><a href="/tabnak"><i class="etme_widget_message_user_photo bgcolor5" data-content=""><img src="/download_f0da6c45a13ba8bb1091fd26e2cea116?token=78da01b4004bff10000000cdb0a4909e1fc748998934a421d6ede9fb8c8a99f6c8926c8be6c0a1d351a266ce21226c61874d657f2900b5fb9ef4aa64de9146769763ec6b8dcd8a0380297934366fbecec28af0a1ddd1607688a25b74628b7bdc36118d1c8e8569a56b2df0679f8a2d3a9031d4bc57fc27e0c0ea15786d062c6dd7084dcc816ddc7e39354c1f1ee00f1d11484a1fef0599e53b845f813b4f67b4fe9b23d2ec879d9ae46959e80bf26bc5397974eb29d760683995f63c4c5a19" alt=""></i></a></div>
+            <div class="etme_widget_message_bubble">
+                <i class="etme_widget_message_bubble_tail">
+                    <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                        <g fill="none">
+                            <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                            <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                            <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                            <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                        </g>
+                    </svg>
+                </i>
+                <div class="etme_widget_message_author accent_color"><a class="etme_widget_message_owner_name" href="/tabnak"><span dir="auto">تابناک</span></a></div>
+                                                            <a class="etme_widget_message_photo_wrap" href="/s/tabnak/193095" style="width:90px;background-image: url('/download_eac6f7bad7abbc4ec39bf05b66cb6f42?token=78da01a4005bff1000000093df56070d953ca9938bf9daf9791de0fb8c8a99f6c8926c8be6c0a1d856a463c226246e63874d60782d02bbf196f8a665db9e4775976ae96b91cd8a0380297a34306abdcec38afcfcd1d2687180a50e73628c2ad361428b4f87d43da13879a132cd8e2b3d993ed1b15ba220b4ccb9162b6b0f2b6dd6004dcad36dd0253d621c4548b40a1f134a1945e95590b76b89398c3c4f6cb1919a7585e88e9fcfea6e3160ae4fed')">
+                                <div class="etme_widget_message_photo" style="padding-top:65.555555555556%"></div>
+                            </a>
+                                            <div class="etme_widget_message_text js-message_text" style="white-space: pre-wrap" dir="rtl">🔺اردوغان: دیگر نامزد نمی‌شوم، قانون اساسی تازه می‌خواهیم
+
+🔹️رئیس‌جمهور ترکیه: قصد ندارم دوباره برای ریاست‌جمهوری نامزد شوم، اما کشور به یک قانون اساسی جدید نیاز دارد.
+
+🔹️همچنین ممکن است به ایالات متحده سفر کنم. فکر می‌کنم این فرصت پیش بیاید که دیداری رودررو با دونالد ترامپ داشته باشیم.
+
+<a href="https://eitaa.com/tabnak" dir="auto">@Tabnak</a></div>
+                <div class="etme_widget_message_footer compact js-message_footer">
+
+                    <div class="etme_widget_message_info short js-message_info">
+                        <span class="etme_widget_message_views" data-count="1427">1.4هزار</span><span class="copyonly"> مشاهده</span><span class="etme_widget_message_meta"><a class="etme_widget_message_date" href="/s/tabnak/193095"><time datetime="2025-05-22T13:18:22+00:00" class="time">13:18</time></a></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+                </div>
+                <div class="etme_widget_message_wrap js-widget_message_wrap" id="193096">
+                    <div class="etme_widget_message text_not_supported_wrap js-widget_message" data-post="tabnak/193096" data-view="eyJjIjoxLCJwIjoyLCJ0IjozLCJoIjoiIn0=">
+            <div class="etme_widget_message_user"><a href="/tabnak"><i class="etme_widget_message_user_photo bgcolor5" data-content=""><img src="/download_f0da6c45a13ba8bb1091fd26e2cea116?token=78da01b4004bff10000000cdb0a4909e1fc748998934a421d6ede9fb8c8a99f6c8926c8be6c0a1d351a266ce21226c61874d657f2900b5fb9ef4aa64de9146769763ec6b8dcd8a0380297934366fbecec28af0a1ddd1607688a25b74628b7bdc36118d1c8e8569a56b2df0679f8a2d3a9031d4bc57fc27e0c0ea15786d062c6dd7084dcc816ddc7e39354c1f1ee00f1d11484a1fef0599e53b845f813b4f67b4fe9b23d2ec879d9ae46959e80bf26bc5397974eb29d760683995f63c4c5a19" alt=""></i></a></div>
+            <div class="etme_widget_message_bubble">
+                <i class="etme_widget_message_bubble_tail">
+                    <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                        <g fill="none">
+                            <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                            <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                            <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                            <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                        </g>
+                    </svg>
+                </i>
+                <div class="etme_widget_message_author accent_color"><a class="etme_widget_message_owner_name" href="/tabnak"><span dir="auto">تابناک</span></a></div>
+                                                            <a class="etme_widget_message_photo_wrap" href="/s/tabnak/193096" style="width:90px;background-image: url('/download_900edc9caaef399328b2b35de82bb00a?token=78da01a4005bff1000000089c10ca97d40f98ebfc1457b2838c581fb8c8a99f6c8926c8be6c0a1d856a564ca21216f60874d63792904b1fa97f5a960dc9a41729064e56b91cd8a0380297a34306abdcec38afcfcd1d2687180a50e7337d72ad262428b4f87d43da13879a132cd8e2b3d993ed1b15ba220b4c8bd422c6e072d6e8c09499dd23bd52f39631b104cb40b1f134a1912bc0590b43b8539893c4e60b4919a7585e88e9fcfea6e31e6264dcd')">
+                                <div class="etme_widget_message_photo" style="padding-top:65.555555555556%"></div>
+                            </a>
+                                            <div class="etme_widget_message_text js-message_text" style="white-space: pre-wrap" dir="rtl">🔺رونمایی از سه سامانه پهپادی در نیروی زمینی ارتش
+
+🔹جانشین نیروی زمینی ارتش گفت: سه سامانه پهپادی عمودپرواز هما، عمودپرواز دیدبان نزاجا و سامانه کواد FPV انهدامی شاهین 1، از جدیدترین سامانه‌های پهپادی الحاق‌شده به سازمان رزم نیروی زمینی ارتش هستند که به دست متخصصان و صنعت‌گران داخلی و به صورت کاملاً بومی ساخته و به کارگیری شده‌اند.
+
+
+جزئیات بیشتر:
+<a href="http://tabnak.ir/005U2N" target="_blank" rel="nofollow"  dir="auto">tabnak.ir/005U2N</a>
+
+<a href="https://eitaa.com/tabnak" dir="auto">@Tabnak</a></div>
+                <div class="etme_widget_message_footer compact js-message_footer">
+
+                    <div class="etme_widget_message_info short js-message_info">
+                        <span class="etme_widget_message_views" data-count="1195">1.2هزار</span><span class="copyonly"> مشاهده</span><span class="etme_widget_message_meta"><a class="etme_widget_message_date" href="/s/tabnak/193096"><time datetime="2025-05-22T13:34:05+00:00" class="time">13:34</time></a></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+                </div>
+                <div class="etme_widget_message_wrap js-widget_message_wrap" id="193097">
+                    <div class="etme_widget_message text_not_supported_wrap js-widget_message" data-post="tabnak/193097" data-view="eyJjIjoxLCJwIjoyLCJ0IjozLCJoIjoiIn0=">
+            <div class="etme_widget_message_user"><a href="/tabnak"><i class="etme_widget_message_user_photo bgcolor5" data-content=""><img src="/download_f0da6c45a13ba8bb1091fd26e2cea116?token=78da01b4004bff10000000cdb0a4909e1fc748998934a421d6ede9fb8c8a99f6c8926c8be6c0a1d351a266ce21226c61874d657f2900b5fb9ef4aa64de9146769763ec6b8dcd8a0380297934366fbecec28af0a1ddd1607688a25b74628b7bdc36118d1c8e8569a56b2df0679f8a2d3a9031d4bc57fc27e0c0ea15786d062c6dd7084dcc816ddc7e39354c1f1ee00f1d11484a1fef0599e53b845f813b4f67b4fe9b23d2ec879d9ae46959e80bf26bc5397974eb29d760683995f63c4c5a19" alt=""></i></a></div>
+            <div class="etme_widget_message_bubble">
+                <i class="etme_widget_message_bubble_tail">
+                    <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                        <g fill="none">
+                            <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                            <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                            <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                            <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                        </g>
+                    </svg>
+                </i>
+                <div class="etme_widget_message_author accent_color"><a class="etme_widget_message_owner_name" href="/tabnak"><span dir="auto">تابناک</span></a></div>
+                                                            <a class="etme_widget_message_photo_wrap" href="/s/tabnak/193097" style="width:90px;background-image: url('/download_54e9b4457dc3692a0e9f274e322b651b?token=78da01a4005bff100000003e5ad9e0d6c9f9b78282c542b573354dfb8c8a99f6c8926c8be6c0a1d856a566cb22216963874a61792904baf19ff4a66fdf9f4672906ae46b91cd8a0380297a34306abdcec38afcfcd1d2687180a50e73348f7fd232138d498cd468a63b79a53799887f6a916bd3bb56aa23e69fba417d3901706bdd021c9fd13add2d696e1e1e48b60919134a4d17e90190b139d9398a394466b9919a7585e88e9fcfea6e31ee4750f0')">
+                                <div class="etme_widget_message_photo" style="padding-top:54.444444444444%"></div>
+                            </a>
+                                            <div class="etme_widget_message_text js-message_text" style="white-space: pre-wrap" dir="rtl">🔺ربایش نفتکش اماراتی در آب‌های ایران تکذیب شد
+
+🔹روابط عمومی نیروی دریایی ارتش در پی انتشار خبر ربایش نفتکش متعلق به کشور امارات متحده عربی با پرچم پاناما در آب‌های تحت حاکمیت ایران تکذیبیه صادر کرد.
+
+
+جزئیات بیشتر:
+<a href="http://tabnak.ir/005U2M" target="_blank" rel="nofollow"  dir="auto">tabnak.ir/005U2M</a>
+
+<a href="https://eitaa.com/tabnak" dir="auto">@Tabnak</a></div>
+                <div class="etme_widget_message_footer compact js-message_footer">
+
+                    <div class="etme_widget_message_info short js-message_info">
+                        <span class="etme_widget_message_views" data-count="985">985</span><span class="copyonly"> مشاهده</span><span class="etme_widget_message_meta"><a class="etme_widget_message_date" href="/s/tabnak/193097"><time datetime="2025-05-22T13:47:41+00:00" class="time">13:47</time></a></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+                </div>
+                <div class="etme_widget_message_wrap js-widget_message_wrap" id="193098">
+                    <div class="etme_widget_message text_not_supported_wrap js-widget_message" data-post="tabnak/193098" data-view="eyJjIjoxLCJwIjoyLCJ0IjozLCJoIjoiIn0=">
+            <div class="etme_widget_message_user"><a href="/tabnak"><i class="etme_widget_message_user_photo bgcolor5" data-content=""><img src="/download_f0da6c45a13ba8bb1091fd26e2cea116?token=78da01b4004bff10000000cdb0a4909e1fc748998934a421d6ede9fb8c8a99f6c8926c8be6c0a1d351a266ce21226c61874d657f2900b5fb9ef4aa64de9146769763ec6b8dcd8a0380297934366fbecec28af0a1ddd1607688a25b74628b7bdc36118d1c8e8569a56b2df0679f8a2d3a9031d4bc57fc27e0c0ea15786d062c6dd7084dcc816ddc7e39354c1f1ee00f1d11484a1fef0599e53b845f813b4f67b4fe9b23d2ec879d9ae46959e80bf26bc5397974eb29d760683995f63c4c5a19" alt=""></i></a></div>
+            <div class="etme_widget_message_bubble">
+                <i class="etme_widget_message_bubble_tail">
+                    <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                        <g fill="none">
+                            <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                            <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                            <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                            <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                        </g>
+                    </svg>
+                </i>
+                <div class="etme_widget_message_author accent_color"><a class="etme_widget_message_owner_name" href="/tabnak"><span dir="auto">تابناک</span></a></div>
+                                                                    <a class="etme_widget_message_video_player js-message_video_player" href="https://eitaa.com/tabnak/193098"><i class="etme_widget_message_video_thumb" style="background-image:url('/download_36846f770a06c51067921167d9cc155c?token=78da0195006aff10000000a5b1d8262589ae5ebccc75f242dd9ec1fb8c8a99f6c8926c8be6c0a1d856a565c327266e6a874d617c2101b5fd94f4ad61d99841729062ec6b9acd8a0380297a34306abdcec38afcfcd1d2687180a55d73648b20dd6217df1d8ad433f23d78f462cc842b3e9031d4be5daa24e7ccbc417c3901706bdf024a98da3e8578386e4a4327b608191b254c11eb0099e73c85508fa29a49aa')"></i>
+                                        <div class="video_waiting_loader"></div>
+                                        <div class="etme_widget_message_video_wrap" style="width:90px;padding-top:56.666666666667%">
+                                            <video src="/download_e04657700817504e6e3331b93065d8df?token=78da01970068ff100000004b12ad246786b8560599c89273e46672e3858a9af0c9906189e6c0a1d856a565c327266e6a874d617c2101b5fd94f4ad61d99841729062ec6bb6a5855f852d7d63333abfc89380fdfddcdf617889a25a2665d72f8a30408d1f8edc6aa7382fa63597892839983cd6ba5faf75b69abd162d6b0f7c6fdc014a90d568812d30641d794ab20b181a4b4b79ee0094e2368e55813d40a2c8469a" class="etme_widget_message_video js-message_video" width="100%" height="100%" preload="none"></video>
+                                        </div>
+                                        <div class="message_video_play js-message_video_play"></div>
+                                        <time class="message_video_duration js-message_video_duration" title="2.61M">0:23</time>
+                                        <div class="message_media_not_supported_wrap">
+                                            <div class="message_media_not_supported">
+                                                <div class="message_media_not_supported_label">فعلا قابلیت پخش رسانه در مرورگر فراهم نیست</div>
+                                                <span class="message_media_view_in_eitaa">مشاهده در پیام رسان ایتا</span>
+                                            </div>
+                                        </div>
+                                    </a>
+                                                    <div class="etme_widget_message_text js-message_text" style="white-space: pre-wrap" dir="rtl">🔺آتش‌سوزی گسترده در پارک ملی دز خوزستان
+
+🔹آتش‌سوزی گسترده‌ای پارک ملی دز را فراگرفته و بخش‌های وسیعی از این منطقۀ ارزشمند طبیعی را در معرض خطر قرار داده.
+
+🔹فرماندار شهرستان دزفول: نیروهای امدادی به محل اعزام شدند و در حال تلاش برای مهار آتش و جلوگیری از خسارت‌های بیشتر هستند./جماران
+<a href="https://eitaa.com/tabnak" dir="auto">@Tabnak</a></div>
+                <div class="etme_widget_message_footer compact js-message_footer">
+
+                    <div class="etme_widget_message_info short js-message_info">
+                        <span class="etme_widget_message_views" data-count="690">690</span><span class="copyonly"> مشاهده</span><span class="etme_widget_message_meta"><a class="etme_widget_message_date" href="/s/tabnak/193098"><time datetime="2025-05-22T14:00:16+00:00" class="time">14:00</time></a></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+                </div>
+                <div class="etme_widget_message_wrap js-widget_message_wrap" id="193099">
+                    <div class="etme_widget_message text_not_supported_wrap js-widget_message" data-post="tabnak/193099" data-view="eyJjIjoxLCJwIjoyLCJ0IjozLCJoIjoiIn0=">
+            <div class="etme_widget_message_user"><a href="/tabnak"><i class="etme_widget_message_user_photo bgcolor5" data-content=""><img src="/download_f0da6c45a13ba8bb1091fd26e2cea116?token=78da01b4004bff10000000cdb0a4909e1fc748998934a421d6ede9fb8c8a99f6c8926c8be6c0a1d351a266ce21226c61874d657f2900b5fb9ef4aa64de9146769763ec6b8dcd8a0380297934366fbecec28af0a1ddd1607688a25b74628b7bdc36118d1c8e8569a56b2df0679f8a2d3a9031d4bc57fc27e0c0ea15786d062c6dd7084dcc816ddc7e39354c1f1ee00f1d11484a1fef0599e53b845f813b4f67b4fe9b23d2ec879d9ae46959e80bf26bc5397974eb29d760683995f63c4c5a19" alt=""></i></a></div>
+            <div class="etme_widget_message_bubble">
+                <i class="etme_widget_message_bubble_tail">
+                    <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                        <g fill="none">
+                            <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                            <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                            <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                            <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                        </g>
+                    </svg>
+                </i>
+                <div class="etme_widget_message_author accent_color"><a class="etme_widget_message_owner_name" href="/tabnak"><span dir="auto">تابناک</span></a></div>
+                                                            <a class="etme_widget_message_photo_wrap" href="/s/tabnak/193099" style="width:90px;background-image: url('/download_deb97ab106f424cb3e3202abfe80e083?token=78da01aa0055ff1000000095e23096be21a144daf9d93001316d6dfb8c8a99f6c8926c8be6c0a1d856a561ce272b6864874d617c2c05bafa93f6a867dd914476906aee6b90cd8a0380297a34306abdcec38afcfcd1d2687180a55d73618f21d861128b4f87d43da13879a132cd8e2b3d913e83bc5dfc24e69bbb407a65037a6cd8064accdb3985253d6e48444ab0094c474d4d17ef0e90e53e8b508e3b136cb8919e7483e682f2cde46c31e20ef466c25113f15382')">
+                                <div class="etme_widget_message_photo" style="padding-top:55.555555555556%"></div>
+                            </a>
+                                            <div class="etme_widget_message_text js-message_text" style="white-space: pre-wrap" dir="rtl">رهبر انصارالله یمن:
+🔺 سکوت امت اسلامی به صهیونیست‌ها جرات جنایت می‌دهد
+
+🔹شانه خالی کردن از این مسئولیت پیامدهای بسیار خطرناکی دارد زیرا این مسئولت در قبال خداوند است.
+
+ 🔹امت اسلامی می‌تواند کمک زیادی به ملت فلسطین کند اما تماشاچی بودن یک وضعیت خطرناک برای امت است.
+
+ <a href="https://eitaa.com/tabnak" dir="auto">@Tabnak</a></div>
+                <div class="etme_widget_message_footer compact js-message_footer">
+
+                    <div class="etme_widget_message_info short js-message_info">
+                        <span class="etme_widget_message_views" data-count="375">375</span><span class="copyonly"> مشاهده</span><span class="etme_widget_message_meta"><a class="etme_widget_message_date" href="/s/tabnak/193099"><time datetime="2025-05-22T14:12:35+00:00" class="time">14:12</time></a></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+                </div>
+                <div class="etme_widget_message_wrap js-widget_message_wrap" id="193100">
+                    <div class="etme_widget_message text_not_supported_wrap js-widget_message" data-post="tabnak/193100" data-view="eyJjIjoxLCJwIjoyLCJ0IjozLCJoIjoiIn0=">
+            <div class="etme_widget_message_user"><a href="/tabnak"><i class="etme_widget_message_user_photo bgcolor5" data-content=""><img src="/download_f0da6c45a13ba8bb1091fd26e2cea116?token=78da01b4004bff10000000cdb0a4909e1fc748998934a421d6ede9fb8c8a99f6c8926c8be6c0a1d351a266ce21226c61874d657f2900b5fb9ef4aa64de9146769763ec6b8dcd8a0380297934366fbecec28af0a1ddd1607688a25b74628b7bdc36118d1c8e8569a56b2df0679f8a2d3a9031d4bc57fc27e0c0ea15786d062c6dd7084dcc816ddc7e39354c1f1ee00f1d11484a1fef0599e53b845f813b4f67b4fe9b23d2ec879d9ae46959e80bf26bc5397974eb29d760683995f63c4c5a19" alt=""></i></a></div>
+            <div class="etme_widget_message_bubble">
+                <i class="etme_widget_message_bubble_tail">
+                    <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                        <g fill="none">
+                            <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                            <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                            <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                            <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                        </g>
+                    </svg>
+                </i>
+                <div class="etme_widget_message_author accent_color"><a class="etme_widget_message_owner_name" href="/tabnak"><span dir="auto">تابناک</span></a></div>
+                                                            <a class="etme_widget_message_photo_wrap" href="/s/tabnak/193100" style="width:90px;background-image: url('/download_c4f51f734710cd8c026aac6c344b3e10?token=78da01aa0055ff100000000e2fb0ee2862f0346ff5dc69b02c85d1fb8c8a99f6c8926c8be6c0a1d856a562c2292a6867874d6d7f2801b2f89ef4ab64dc9942709663eb6b90cd8a0380297a34306abdcec38afcfcd1d2687180a50a73368d7ade35428d498cd468a63b79a53799887f6a916bd8b05afc72e09bed477e65037a6cd6064b9dd631d1296a66481740bd0f4c144c4f16ef0690e53eda5f893b1467b8919d7182ed8ff2cde46c31e20ef466c251a8155593')">
+                                <div class="etme_widget_message_photo" style="padding-top:100%"></div>
+                            </a>
+                                            <div class="etme_widget_message_text js-message_text" style="white-space: pre-wrap" dir="rtl">🔺️ تبلیغات در تابناک
+
+📍برای تبلیغ در شبکه‌های اجتماعی تابناک و کسب اطلاعات بیشتر با ما تماس بگیرید:
+
+📳 09309023193
+
+<a href="https://eitaa.com/teletabnak" dir="auto">@TeleTabnak</a></div>
+                <div class="etme_widget_message_footer compact js-message_footer">
+
+                    <div class="etme_widget_message_info short js-message_info">
+                        <span class="etme_widget_message_views" data-count="103">103</span><span class="copyonly"> مشاهده</span><span class="etme_widget_message_meta"><a class="etme_widget_message_date" href="/s/tabnak/193100"><time datetime="2025-05-22T14:22:33+00:00" class="time">14:22</time></a></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+                </div>
+                <div class="etme_widget_message_wrap js-widget_message_wrap" id="193102">
+                    <div class="etme_widget_message text_not_supported_wrap js-widget_message" data-post="tabnak/193102" data-view="eyJjIjoxLCJwIjoyLCJ0IjozLCJoIjoiIn0=">
+            <div class="etme_widget_message_user"><a href="/tabnak"><i class="etme_widget_message_user_photo bgcolor5" data-content=""><img src="/download_f0da6c45a13ba8bb1091fd26e2cea116?token=78da01b4004bff10000000cdb0a4909e1fc748998934a421d6ede9fb8c8a99f6c8926c8be6c0a1d351a266ce21226c61874d657f2900b5fb9ef4aa64de9146769763ec6b8dcd8a0380297934366fbecec28af0a1ddd1607688a25b74628b7bdc36118d1c8e8569a56b2df0679f8a2d3a9031d4bc57fc27e0c0ea15786d062c6dd7084dcc816ddc7e39354c1f1ee00f1d11484a1fef0599e53b845f813b4f67b4fe9b23d2ec879d9ae46959e80bf26bc5397974eb29d760683995f63c4c5a19" alt=""></i></a></div>
+            <div class="etme_widget_message_bubble">
+                <i class="etme_widget_message_bubble_tail">
+                    <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                        <g fill="none">
+                            <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                            <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                            <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                            <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                        </g>
+                    </svg>
+                </i>
+                <div class="etme_widget_message_author accent_color"><a class="etme_widget_message_owner_name" href="/tabnak"><span dir="auto">تابناک</span></a></div>
+                                                            <a class="etme_widget_message_photo_wrap" href="/s/tabnak/193102" style="width:90px;background-image: url('/download_ed95d6526211120d257a2ac5d883b3db?token=78da01a4005bff10000000191d5da6bc0f018fca7b2a9feb1bf990fb8c8a99f6c8926c8be6c0a1d856a563cf21276b66874d637b2d08b3ff9ef1a76fd99d497c9760e96b91cd8a0380297a34306abdcec38afcfcd1d2687180a55f7337dc7dd837118d498cd468a63b79a53799887f6a916bd3bb56aa23e6cee9472f6b002b6dd6001fcad238d6293a374b4540b50b19134a1942ec0390b469d8398b3b4564b0919a7585e88e9fcfea6e31e2384fc4')">
+                                <div class="etme_widget_message_photo" style="padding-top:65.555555555556%"></div>
+                            </a>
+                                            <div class="etme_widget_message_text js-message_text" style="white-space: pre-wrap" dir="rtl">🔺خروج اعضای هیئت مذاکره‌کننده رژیم اسرائیل از دوحه قطر
+
+🔹بنیامین نتانیاهو نخست‌وزیر رژیم صهیونیستی تمام اعضای هیئت مذاکره کننده این رژیم را که در دوحه قطر در حال رایزنی برای دستیابی به توافق آتش‌بس در نوار غزه بود، به تل‌آویو بازگرداند.
+
+
+جزئیات بیشتر:
+<a href="http://tabnak.ir/005U2P" target="_blank" rel="nofollow"  dir="auto">tabnak.ir/005U2P</a>
+
+<a href="https://eitaa.com/tabnak" dir="auto">@Tabnak</a></div>
+                <div class="etme_widget_message_footer compact js-message_footer">
+
+                    <div class="etme_widget_message_info short js-message_info">
+                        <span class="etme_widget_message_views" data-count="17">17</span><span class="copyonly"> مشاهده</span><span class="etme_widget_message_meta"><a class="etme_widget_message_date" href="/s/tabnak/193102"><time datetime="2025-05-22T14:25:34+00:00" class="time">14:25</time></a></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+                </div>
+                <div class="etme_widget_message_centered js-messages_more_wrap" dir="auto">
+            <a href="/tabnak?after=193102" class="eme_messages_more js-messages_more" data-after="193102"><span>مطالب بعدی</span></a>
+        </div>
+                    </section>
+        </div>
+            </main>
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/jquery-ui.min.js"></script>
+    <script src="/js/ewallpaper.js"></script>
+    <script src="/js/etsticker.js"></script>
+    <script src="/js/widget-frame.js"></script>
+    <script src="/js/eitaa-web.js"></script>
+    <script>EWeb.init({scrollToPost:'tabnak/193098'});</script>
+    <script>
+        var t, d = $('#date-float');
+        t = setTimeout(function () {
+            d.fadeOut().css('visibility', 'hidden');
+        }, 3000);
+        $(window).on('scroll', function () {
+            clearTimeout(t);
+            t = setTimeout(function () {
+                d.fadeOut().css('visibility', 'hidden');
+            }, 3000);
+            var elements = $(".etme_widget_message_service_date"), el, scroll = $(window).scrollTop(), text = elements.last().text();
+            for (var i = elements.length - 1; i >= 0; i--) {
+                el = $(elements[i]);
+                if (el.offset().top <= scroll - 40) {
+                    if ($(elements[i + 1]).length) {
+                        text = $(elements[i + 1]).text();
+                    } else {
+                        text = el.text();
+                    }
+                    break;
+                }
+            }
+            d.css('visibility', 'visible').text(text).fadeIn()
+        });
+    </script>
+</body>
+</html>
+<!-- page generated in 0.19ms -->

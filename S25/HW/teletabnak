@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="utf-8">
+    <title>ایتا - تابناک</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="format-detection" content="telephone=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="MobileOptimized" content="176">
+    <meta name="HandheldFriendly" content="True">
+    <meta property="og:title" content="ایتا - تابناک">
+    <meta property="og:image" content="/img/e_logo.png">
+    <meta property="og:site_name" content="Eitaa">
+    <meta property="og:description" content="پیام رسان ایرانی ایتا Eitaa">
+
+    <meta property="twitter:title" content="ایتا - تابناک">
+    <meta property="twitter:image" content="/img/e_logo.png">
+    <meta property="twitter:site" content="@Eitaa">
+
+    <meta property="al:android:url" content="et://resolve?domain=teletabnak">
+    <meta property="al:android:app_name" content="Eitaa">
+    <meta property="al:android:package" content="ir.eitaa.messenger">
+
+    <link rel="icon" type="image/svg+xml" href="/img/website_icon.svg">
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
+    <link rel="alternate icon" href="/img/favicon.ico" type="image/x-icon"/>
+        <link href="/css/font.css" rel="stylesheet" type="text/css">
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/css/eitaa.css" rel="stylesheet" media="screen">    <link href="/css/widget-frame.css?1" rel="stylesheet" media="screen">
+    <link href="/css/eitaa-web.css?2" rel="stylesheet" media="screen">
+    <link href="/assets/bootstrap/css/bootstrap-grid.min.css" rel="stylesheet" media="screen">
+    <script>EBaseUrl = '/';</script>
+        <link rel="prev" href="/teletabnak?before=1">
+                <link rel="canonical" href="/teletabnak?before=11">    <script>window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches && document.documentElement && document.documentElement.classList && document.documentElement.classList.add('theme_dark');</script>
+</head>
+<body  class="widget_frame_base etme_webpreview emoji_image thin_box_shadow eme_mode no_transition">
+    <div class="etme_background_wrap">
+        <canvas id="etme_background" class="etme_background default" width="50" height="50" data-colors="dbddbb,6ba587,d5d88d,88b884"></canvas>
+        <div class="etme_background_pattern default"></div>
+    </div>
+    <header class="etme_header search_collapsed">
+        <img alt="eitaa logo" class="d-none d-lg-block" style="height:30px;position: fixed;top: 8px;left: 8px" src="/img/Eitaa-Logo-Full.svg">
+        <div class="etme_container">
+            <div id="date-float" class="etme_widget_message_service_date" dir="rtl" style="visibility: hidden;position:fixed;top:60px;left:39%">۱۷ مهر</div>
+            <div class="etme_header_search">
+                <form class="etme_header_search_form" action="/teletabnak">
+                    <svg class="etme_header_search_form_icon" width="20" height="20" viewBox="0 0 20 20">
+                        <g fill="none" stroke="#7D7F81" stroke-width="1.4">
+                            <circle cx="9" cy="9" r="6"></circle>
+                            <path d="M13.5,13.5 L17,17" stroke-linecap="round"></path>
+                        </g>
+                    </svg>
+                    <input class="etme_header_search_form_input js-header_search" placeholder="جستجو" name="q" autocomplete="off" value="" dir="auto" title="جستجو"/>
+                    <a href="/teletabnak" class="etme_header_search_form_clear">
+                        <svg class="etme_action_button_icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" width="20" height="20">
+                            <g class="icon_body" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-width="1.5">
+                                <path d="M6 14l8-8m0 8L6 6" stroke-dasharray="0,11.314" stroke-dashoffset="5.657"/>
+                                <path d="M26 14l8-8m0 8l-8-8" stroke-dasharray="0.371,10.943" stroke-dashoffset="5.842"/>
+                                <path d="M46 14l8-8m0 8l-8-8" stroke-dasharray="1.982,9.332" stroke-dashoffset="6.647756"/>
+                                <path d="M66 14l8-8m0 8l-8-8" stroke-dasharray="5.173,6.14" stroke-dashoffset="8.243"/>
+                                <path d="M86 14l8-8m0 8l-8-8" stroke-dasharray="7.866,3.448" stroke-dashoffset="9.59"/>
+                                <path d="M106 14l8-8m0 8l-8-8" stroke-dasharray="9.471,1.843" stroke-dashoffset="10.392"/>
+                                <path d="M126 14l8-8m0 8l-8-8" stroke-dasharray="10.417,0.896" stroke-dashoffset="10.866"/>
+                                <path d="M146 14l8-8m0 8l-8-8" stroke-dasharray="10.961,0.353" stroke-dashoffset="11.137"/>
+                                <path d="M166 14l8-8m0 8l-8-8" stroke-dasharray="11.234,0.08" stroke-dashoffset="11.274"/>
+                                <path d="M186 14l8-8m0 8l-8-8"/>
+                            </g>
+                        </svg>
+                    </a>
+                </form>
+            </div>
+            <div class="etme_header_right_column">
+                <section class="etme_right_column">
+                    <div class="etme_channel_info">
+                        <div class="etme_channel_info_header" dir="rtl">
+                            <i class="etme_page_photo_image bgcolor5" data-content=""><img src="/download_fd420835bf782c0c505834e67144db1f?token=78da013f00c0ff1000000093ce4c26919f88b674d397a6f1a94c4cfb8c8a99f6c8926c8be6c1c69c39a76c9f71226c62e84c657e2901b3f8979fae09dd9f44729e61ee2edcaaf69220fa" alt=""></i>
+                            <div class="etme_channel_info_header_title_wrap">
+                                <div class="etme_channel_info_header_title"><span dir="auto">تابناک</span></div>
+                                                            </div>
+                            <div class="etme_channel_info_header_username"><a dir="auto" href="/teletabnak">@teletabnak</a></div>
+                        </div>
+                        <div class="etme_channel_info_counters">
+                            <div class="etme_channel_info_counter"><span class="counter_value" data-count="116">116</span> <span class="counter_type">دنبال‌کننده</span></div>
+                                                            <div class="etme_channel_info_counter"><span class="counter_value" data-count="1">1</span> <span class="counter_type">عکس</span></div>
+                                <div class="etme_channel_info_counter"><span class="counter_value" data-count="0">0</span> <span class="counter_type">ویدیو</span></div>
+                                <div class="etme_channel_info_counter"><span class="counter_value" data-count="0">0</span> <span class="counter_type">فایل</span></div>
+                                                        </div>
+                        <div class="etme_channel_info_description" dir="auto" style="white-space: pre-wrap"></div>
+                        <a class="etme_channel_download_eitaa" href="/s/teletabnak/">
+                            <svg class="etme_channel_download_eitaa_icon" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="18px" height="18px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" viewBox="0 0 50 50"><g>
+                                    <path fill="#ffffff" d="M14 0l21 0c7.7,0 14,6.29 14,13.99l0 6.75c-6.9,3.11 -13.87,18.43 -24.02,15.1 -0.83,0.6 -2.76,3.04 -2.89,4.9 -3.52,-0.47 -7.57,-4.49 -7.08,-8.84 -5.85,-4.23 -1.03,-12.04 3.61,-15.18 9.95,-6.74 23.75,-0.95 16.07,3.87 -4.67,2.93 -14.65,4.87 -13.61,-2.33 -2.74,0.79 -4.49,5.9 -1.2,8.56 -3.05,3 -2.46,8.52 0.8,10.33 3.31,-8.56 14.8,-7.44 19.44,-17.65 3.49,-7.68 -1.68,-16.44 -12.04,-15.09 -7.82,1.01 -15.14,7.61 -18.81,15.42 -3.71,7.94 -3.16,18.56 4.47,23.92 8.98,6.3 18.55,0.46 24.34,-7.16 3.41,-4.5 6.4,-9.48 10.92,-12.35l0 11.97c0,7.7 -6.3,14.01 -14,14.01l-21 0c-7.7,0 -14,-6.3 -14,-14l0 -22.22c0,-7.7 6.3,-14 14,-14l0 0z"/>
+                                </g></svg>
+                            مشاهده در ایتا
+                        </a>
+                        <div class="etme_footer">
+                            <div class="etme_footer_column">
+                                <h5><a href="/faq">پرسش‌ها</a></h5>
+                            </div>
+                            <div class="etme_footer_column">
+                                <h5><a href="/pg/terms">قوانین</a></h5>
+                            </div>
+                            <div class="etme_footer_column">
+                                <h5><a href="https://trends.eitaa.com/">داغ‌ترین‌ها</a></h5>
+                            </div>
+                            <div class="etme_footer_column">
+                                <h5><a href="/#downloading">چندسکویی</a></h5>
+                            </div>
+                        </div>
+                        <img src="/cv.jpg" alt="" style="display:none;" rel="nofollow">
+                    </div>
+                </section>
+            </div>
+            <div class="etme_header_info">
+                <a class="etme_channel_join_eitaa" href="https://eitaa.com/s/teletabnak/">
+                    <svg class="etme_channel_join_eitaa_icon" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="18px" height="18px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" viewBox="0 0 50 50"><g>
+                            <path fill="#ffffff" d="M14 0l21 0c7.7,0 14,6.29 14,13.99l0 6.75c-6.9,3.11 -13.87,18.43 -24.02,15.1 -0.83,0.6 -2.76,3.04 -2.89,4.9 -3.52,-0.47 -7.57,-4.49 -7.08,-8.84 -5.85,-4.23 -1.03,-12.04 3.61,-15.18 9.95,-6.74 23.75,-0.95 16.07,3.87 -4.67,2.93 -14.65,4.87 -13.61,-2.33 -2.74,0.79 -4.49,5.9 -1.2,8.56 -3.05,3 -2.46,8.52 0.8,10.33 3.31,-8.56 14.8,-7.44 19.44,-17.65 3.49,-7.68 -1.68,-16.44 -12.04,-15.09 -7.82,1.01 -15.14,7.61 -18.81,15.42 -3.71,7.94 -3.16,18.56 4.47,23.92 8.98,6.3 18.55,0.46 24.34,-7.16 3.41,-4.5 6.4,-9.48 10.92,-12.35l0 11.97c0,7.7 -6.3,14.01 -14,14.01l-21 0c-7.7,0 -14,-6.3 -14,-14l0 -22.22c0,-7.7 6.3,-14 14,-14l0 0z"/>
+                        </g></svg>
+                    پیوستن
+                </a>
+                <a class="etme_header_link" href="/teletabnak">
+                    <i class="etme_page_photo_image bgcolor5" data-content="">
+                        <img src="/download_fd420835bf782c0c505834e67144db1f?token=78da013f00c0ff1000000093ce4c26919f88b674d397a6f1a94c4cfb8c8a99f6c8926c8be6c1c69c39a76c9f71226c62e84c657e2901b3f8979fae09dd9f44729e61ee2edcaaf69220fa" alt="">
+                    </i>
+                    <div class="etme_header_title_wrap">
+                        <div class="etme_header_title"><span dir="auto">تابناک</span></div>
+                                            </div>
+                    <div class="etme_header_counter" data-participants_count="116"><span dir="rtl">116 دنبال‌کننده</span></div>
+                </a>
+            </div>
+        </div>
+        <a class="etme_head_right_btn d-none d-lg-block" style="min-width:80px;position:fixed;right:8px;top:8px;color:#fff;" rel="nofollow" href="/dl?_=704246">دانلود</a>
+    </header>
+    <main class="etme_main" data-url="/teletabnak">
+        <div class="etme_container">
+            <section class="etme_channel_history js-message_history">
+                        <div class="etme_widget_message_wrap js-widget_message_wrap" id="1">
+                    <div class="etme_widget_message_wrap js-widget_message_wrap date_visible">
+            <div class="etme_widget_message text_not_supported_wrap service_message js-widget_message" data-post="teletabnak/1">
+                <div class="etme_widget_message_user"><a href="/teletabnak"><i class="etme_widget_message_user_photo bgcolor6" data-content=""></i></a></div>
+                <div class="etme_widget_message_bubble">
+
+                    <i class="etme_widget_message_bubble_tail">
+                        <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                            <g fill="none">
+                                <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                                <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                                <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                                <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                            </g>
+                        </svg>
+                    </i>
+                    <div class="etme_widget_message_author accent_color"><a class="etme_widget_message_owner_name" href="/teletabnak"><span dir="auto">تابناک</span></a></div>
+                    <div class="etme_widget_message_text js-message_text before_footer" dir="auto"><a class="etme_widget_message_author_name" href="/teletabnak/"><span dir="auto">سنجاق پیغام</span></a> <span style="display: inline-block; width: 0;"></span></div>
+
+                    <div class="etme_widget_message_footer compact js-message_footer">
+
+                        <div class="etme_widget_message_info short js-message_info">
+                            <span class="etme_widget_message_meta"><a class="etme_widget_message_date" href="/teletabnak/1"><time datetime="2018-04-23T06:06:08+00:00" class="time">06:06</time></a></span>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="etme_widget_message_service_date_wrap">
+                <div class="etme_widget_message_service_date">May 11</div>
+            </div>
+        </div>
+                </div>
+                <div class="etme_widget_message_wrap js-widget_message_wrap" id="2">
+                    <div class="etme_widget_message text_not_supported_wrap js-widget_message" data-post="teletabnak/2" data-view="eyJjIjoxLCJwIjoyLCJ0IjozLCJoIjoiIn0=">
+            <div class="etme_widget_message_user"><a href="/teletabnak"><i class="etme_widget_message_user_photo bgcolor5" data-content=""><img src="/download_fd420835bf782c0c505834e67144db1f?token=78da013f00c0ff1000000093ce4c26919f88b674d397a6f1a94c4cfb8c8a99f6c8926c8be6c1c69c39a76c9f71226c62e84c657e2901b3f8979fae09dd9f44729e61ee2edcaaf69220fa" alt=""></i></a></div>
+            <div class="etme_widget_message_bubble">
+                <i class="etme_widget_message_bubble_tail">
+                    <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                        <g fill="none">
+                            <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                            <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                            <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                            <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                        </g>
+                    </svg>
+                </i>
+                <div class="etme_widget_message_author accent_color"><a class="etme_widget_message_owner_name" href="/teletabnak"><span dir="auto">تابناک</span></a></div>
+                                                            <a class="etme_widget_message_photo_wrap" href="/s/teletabnak/2" style="width:73px;background-image: url('/download_37dd480e88dd01660118ad7c0a13c92c?token=78da01aa0055ff10000000fda284c7e982bfce116414ba7b04255afb8c8a99f6c8926c8be6c2a8d753a566ce4f276f65e14d6d772c05b7ff94f3ad66d89c4639df0cea2f8df3db59d77b7a32666eefce958ef4f3d9d16076daf1097535db2fdc32418a1d8b876ea5397ca1649e852a3c996ed6eb56af27b2c9e9477b3e022d3adb064ecbd330d32f3b3240164cb00318114d4416ef0790e5398e518c3b1262b791937a82e786f2cde46c31e20ef466c15e082b54fc')">
+                                <div class="etme_widget_message_photo" style="padding-top:123.28767123288%"></div>
+                            </a>
+                                            <div class="etme_widget_message_text js-message_text" style="white-space: pre-wrap" dir="rtl"></div>
+                <div class="etme_widget_message_footer compact js-message_footer">
+
+                    <div class="etme_widget_message_info short js-message_info">
+                        <span class="etme_widget_message_views" data-count="3371">3.4هزار</span><span class="copyonly"> مشاهده</span><span class="etme_widget_message_meta"><a class="etme_widget_message_date" href="/s/teletabnak/2"><time datetime="2018-04-25T06:13:59+00:00" class="time">06:13</time></a></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+                </div>
+                <div class="etme_widget_message_wrap js-widget_message_wrap" id="3">
+                    <div class="etme_widget_message text_not_supported_wrap js-widget_message" data-post="teletabnak/3" data-view="eyJjIjoxLCJwIjoyLCJ0IjozLCJoIjoiIn0=">
+            <div class="etme_widget_message_user"><a href="/teletabnak"><i class="etme_widget_message_user_photo bgcolor5" data-content=""><img src="/download_fd420835bf782c0c505834e67144db1f?token=78da013f00c0ff1000000093ce4c26919f88b674d397a6f1a94c4cfb8c8a99f6c8926c8be6c1c69c39a76c9f71226c62e84c657e2901b3f8979fae09dd9f44729e61ee2edcaaf69220fa" alt=""></i></a></div>
+            <div class="etme_widget_message_bubble">
+                <i class="etme_widget_message_bubble_tail">
+                    <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                        <g fill="none">
+                            <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                            <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                            <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                            <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                        </g>
+                    </svg>
+                </i>
+                <div class="etme_widget_message_author accent_color"><a class="etme_widget_message_owner_name" href="/teletabnak"><span dir="auto">تابناک</span></a></div>
+                                                <div class="etme_widget_message_text js-message_text" style="white-space: pre-wrap" dir="rtl">👍</div>
+                <div class="etme_widget_message_footer compact js-message_footer">
+
+                    <div class="etme_widget_message_info short js-message_info">
+                        <span class="etme_widget_message_views" data-count="9465">9.5هزار</span><span class="copyonly"> مشاهده</span><span class="etme_widget_message_meta"><a class="etme_widget_message_date" href="/s/teletabnak/3"><time datetime="2018-09-05T13:32:22+00:00" class="time">13:32</time></a></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+                </div>
+                <div class="etme_widget_message_wrap js-widget_message_wrap" id="6">
+                    <div class="etme_widget_message text_not_supported_wrap js-widget_message" data-post="teletabnak/6" data-view="eyJjIjoxLCJwIjoyLCJ0IjozLCJoIjoiIn0=">
+            <div class="etme_widget_message_user"><a href="/teletabnak"><i class="etme_widget_message_user_photo bgcolor5" data-content=""><img src="/download_fd420835bf782c0c505834e67144db1f?token=78da013f00c0ff1000000093ce4c26919f88b674d397a6f1a94c4cfb8c8a99f6c8926c8be6c1c69c39a76c9f71226c62e84c657e2901b3f8979fae09dd9f44729e61ee2edcaaf69220fa" alt=""></i></a></div>
+            <div class="etme_widget_message_bubble">
+                <i class="etme_widget_message_bubble_tail">
+                    <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                        <g fill="none">
+                            <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                            <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                            <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                            <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                        </g>
+                    </svg>
+                </i>
+                <div class="etme_widget_message_author accent_color"><a class="etme_widget_message_owner_name" href="/teletabnak"><span dir="auto">تابناک</span></a></div>
+                                                <div class="etme_widget_message_text js-message_text" style="white-space: pre-wrap" dir="rtl">با سلام و عرض ادب</div>
+                <div class="etme_widget_message_footer compact js-message_footer">
+
+                    <div class="etme_widget_message_info short js-message_info">
+                        <span class="etme_widget_message_views" data-count="3706">3.7هزار</span><span class="copyonly"> مشاهده</span><span class="etme_widget_message_meta"><a class="etme_widget_message_date" href="/s/teletabnak/6"><time datetime="2018-12-08T09:45:50+00:00" class="time">09:45</time></a></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+                </div>
+                <div class="etme_widget_message_wrap js-widget_message_wrap" id="7">
+                    <div class="etme_widget_message text_not_supported_wrap js-widget_message" data-post="teletabnak/7" data-view="eyJjIjoxLCJwIjoyLCJ0IjozLCJoIjoiIn0=">
+            <div class="etme_widget_message_user"><a href="/teletabnak"><i class="etme_widget_message_user_photo bgcolor5" data-content=""><img src="/download_fd420835bf782c0c505834e67144db1f?token=78da013f00c0ff1000000093ce4c26919f88b674d397a6f1a94c4cfb8c8a99f6c8926c8be6c1c69c39a76c9f71226c62e84c657e2901b3f8979fae09dd9f44729e61ee2edcaaf69220fa" alt=""></i></a></div>
+            <div class="etme_widget_message_bubble">
+                <i class="etme_widget_message_bubble_tail">
+                    <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                        <g fill="none">
+                            <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                            <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                            <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                            <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                        </g>
+                    </svg>
+                </i>
+                <div class="etme_widget_message_author accent_color"><a class="etme_widget_message_owner_name" href="/teletabnak"><span dir="auto">تابناک</span></a></div>
+                                                <div class="etme_widget_message_text js-message_text" style="white-space: pre-wrap" dir="rtl">🌷</div>
+                <div class="etme_widget_message_footer compact js-message_footer">
+
+                    <div class="etme_widget_message_info short js-message_info">
+                        <span class="etme_widget_message_views" data-count="10">10</span><span class="copyonly"> مشاهده</span><span class="etme_widget_message_meta"><a class="etme_widget_message_date" href="/s/teletabnak/7"><time datetime="2019-01-05T10:18:44+00:00" class="time">10:18</time></a></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+                </div>
+                <div class="etme_widget_message_wrap js-widget_message_wrap" id="8">
+                    <div class="etme_widget_message text_not_supported_wrap js-widget_message" data-post="teletabnak/8" data-view="eyJjIjoxLCJwIjoyLCJ0IjozLCJoIjoiIn0=">
+            <div class="etme_widget_message_user"><a href="/teletabnak"><i class="etme_widget_message_user_photo bgcolor5" data-content=""><img src="/download_fd420835bf782c0c505834e67144db1f?token=78da013f00c0ff1000000093ce4c26919f88b674d397a6f1a94c4cfb8c8a99f6c8926c8be6c1c69c39a76c9f71226c62e84c657e2901b3f8979fae09dd9f44729e61ee2edcaaf69220fa" alt=""></i></a></div>
+            <div class="etme_widget_message_bubble">
+                <i class="etme_widget_message_bubble_tail">
+                    <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                        <g fill="none">
+                            <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                            <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                            <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                            <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                        </g>
+                    </svg>
+                </i>
+                <div class="etme_widget_message_author accent_color"><a class="etme_widget_message_owner_name" href="/teletabnak"><span dir="auto">تابناک</span></a></div>
+                                                <div class="etme_widget_message_text js-message_text" style="white-space: pre-wrap" dir="rtl">🌹</div>
+                <div class="etme_widget_message_footer compact js-message_footer">
+
+                    <div class="etme_widget_message_info short js-message_info">
+                        <span class="etme_widget_message_views" data-count="11836">11.8هزار</span><span class="copyonly"> مشاهده</span><span class="etme_widget_message_meta"><a class="etme_widget_message_date" href="/s/teletabnak/8"><time datetime="2019-09-24T04:41:36+00:00" class="time">04:41</time></a></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+                </div>
+                <div class="etme_widget_message_wrap js-widget_message_wrap" id="9">
+                    <div class="etme_widget_message text_not_supported_wrap js-widget_message" data-post="teletabnak/9" data-view="eyJjIjoxLCJwIjoyLCJ0IjozLCJoIjoiIn0=">
+            <div class="etme_widget_message_user"><a href="/teletabnak"><i class="etme_widget_message_user_photo bgcolor5" data-content=""><img src="/download_fd420835bf782c0c505834e67144db1f?token=78da013f00c0ff1000000093ce4c26919f88b674d397a6f1a94c4cfb8c8a99f6c8926c8be6c1c69c39a76c9f71226c62e84c657e2901b3f8979fae09dd9f44729e61ee2edcaaf69220fa" alt=""></i></a></div>
+            <div class="etme_widget_message_bubble">
+                <i class="etme_widget_message_bubble_tail">
+                    <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                        <g fill="none">
+                            <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                            <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                            <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                            <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                        </g>
+                    </svg>
+                </i>
+                <div class="etme_widget_message_author accent_color"><a class="etme_widget_message_owner_name" href="/teletabnak"><span dir="auto">تابناک</span></a></div>
+                                                <div class="etme_widget_message_text js-message_text" style="white-space: pre-wrap" dir="rtl">🌻</div>
+                <div class="etme_widget_message_footer compact js-message_footer">
+
+                    <div class="etme_widget_message_info short js-message_info">
+                        <span class="etme_widget_message_views" data-count="3516">3.5هزار</span><span class="copyonly"> مشاهده</span><span class="etme_widget_message_meta"><a class="etme_widget_message_date" href="/s/teletabnak/9"><time datetime="2019-11-17T16:30:59+00:00" class="time">16:30</time></a></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+                </div>
+                <div class="etme_widget_message_wrap js-widget_message_wrap" id="10">
+                    <div class="etme_widget_message text_not_supported_wrap js-widget_message" data-post="teletabnak/10" data-view="eyJjIjoxLCJwIjoyLCJ0IjozLCJoIjoiIn0=">
+            <div class="etme_widget_message_user"><a href="/teletabnak"><i class="etme_widget_message_user_photo bgcolor5" data-content=""><img src="/download_fd420835bf782c0c505834e67144db1f?token=78da013f00c0ff1000000093ce4c26919f88b674d397a6f1a94c4cfb8c8a99f6c8926c8be6c1c69c39a76c9f71226c62e84c657e2901b3f8979fae09dd9f44729e61ee2edcaaf69220fa" alt=""></i></a></div>
+            <div class="etme_widget_message_bubble">
+                <i class="etme_widget_message_bubble_tail">
+                    <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                        <g fill="none">
+                            <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                            <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                            <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                            <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                        </g>
+                    </svg>
+                </i>
+                <div class="etme_widget_message_author accent_color"><a class="etme_widget_message_owner_name" href="/teletabnak"><span dir="auto">تابناک</span></a></div>
+                                                <div class="etme_widget_message_text js-message_text" style="white-space: pre-wrap" dir="rtl">🌷</div>
+                <div class="etme_widget_message_footer compact js-message_footer">
+
+                    <div class="etme_widget_message_info short js-message_info">
+                        <span class="etme_widget_message_views" data-count="4326">4.3هزار</span><span class="copyonly"> مشاهده</span><span class="etme_widget_message_meta"><a class="etme_widget_message_date" href="/s/teletabnak/10"><time datetime="2019-11-23T13:50:31+00:00" class="time">13:50</time></a></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+                </div>
+                    </section>
+        </div>
+            </main>
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/jquery-ui.min.js"></script>
+    <script src="/js/ewallpaper.js"></script>
+    <script src="/js/etsticker.js"></script>
+    <script src="/js/widget-frame.js"></script>
+    <script src="/js/eitaa-web.js"></script>
+    <script>EWeb.init();</script>
+    <script>
+        var t, d = $('#date-float');
+        t = setTimeout(function () {
+            d.fadeOut().css('visibility', 'hidden');
+        }, 3000);
+        $(window).on('scroll', function () {
+            clearTimeout(t);
+            t = setTimeout(function () {
+                d.fadeOut().css('visibility', 'hidden');
+            }, 3000);
+            var elements = $(".etme_widget_message_service_date"), el, scroll = $(window).scrollTop(), text = elements.last().text();
+            for (var i = elements.length - 1; i >= 0; i--) {
+                el = $(elements[i]);
+                if (el.offset().top <= scroll - 40) {
+                    if ($(elements[i + 1]).length) {
+                        text = $(elements[i + 1]).text();
+                    } else {
+                        text = el.text();
+                    }
+                    break;
+                }
+            }
+            d.css('visibility', 'visible').text(text).fadeIn()
+        });
+    </script>
+</body>
+</html>
+<!-- page generated in 0.16ms -->

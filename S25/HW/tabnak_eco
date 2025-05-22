@@ -1,0 +1,611 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="utf-8">
+    <title>ایتا - تابناک اقتصادی</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="format-detection" content="telephone=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="MobileOptimized" content="176">
+    <meta name="HandheldFriendly" content="True">
+    <meta property="og:title" content="ایتا - تابناک اقتصادی">
+    <meta property="og:image" content="/img/e_logo.png">
+    <meta property="og:site_name" content="Eitaa">
+    <meta property="og:description" content="پیام رسان ایرانی ایتا Eitaa">
+
+    <meta property="twitter:title" content="ایتا - تابناک اقتصادی">
+    <meta property="twitter:image" content="/img/e_logo.png">
+    <meta property="twitter:site" content="@Eitaa">
+
+    <meta property="al:android:url" content="et://resolve?domain=tabnak_eco">
+    <meta property="al:android:app_name" content="Eitaa">
+    <meta property="al:android:package" content="ir.eitaa.messenger">
+
+    <link rel="icon" type="image/svg+xml" href="/img/website_icon.svg">
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
+    <link rel="alternate icon" href="/img/favicon.ico" type="image/x-icon"/>
+        <link href="/css/font.css" rel="stylesheet" type="text/css">
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/css/eitaa.css" rel="stylesheet" media="screen">    <link href="/css/widget-frame.css?1" rel="stylesheet" media="screen">
+    <link href="/css/eitaa-web.css?2" rel="stylesheet" media="screen">
+    <link href="/assets/bootstrap/css/bootstrap-grid.min.css" rel="stylesheet" media="screen">
+    <script>EBaseUrl = '/';</script>
+        <link rel="prev" href="/tabnak_eco?before=261">
+                <link rel="canonical" href="/tabnak_eco?before=273">    <script>window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches && document.documentElement && document.documentElement.classList && document.documentElement.classList.add('theme_dark');</script>
+</head>
+<body  class="widget_frame_base etme_webpreview emoji_image thin_box_shadow eme_mode no_transition">
+    <div class="etme_background_wrap">
+        <canvas id="etme_background" class="etme_background default" width="50" height="50" data-colors="dbddbb,6ba587,d5d88d,88b884"></canvas>
+        <div class="etme_background_pattern default"></div>
+    </div>
+    <header class="etme_header search_collapsed">
+        <img alt="eitaa logo" class="d-none d-lg-block" style="height:30px;position: fixed;top: 8px;left: 8px" src="/img/Eitaa-Logo-Full.svg">
+        <div class="etme_container">
+            <div id="date-float" class="etme_widget_message_service_date" dir="rtl" style="visibility: hidden;position:fixed;top:60px;left:39%">۱۷ مهر</div>
+            <div class="etme_header_search">
+                <form class="etme_header_search_form" action="/tabnak_eco">
+                    <svg class="etme_header_search_form_icon" width="20" height="20" viewBox="0 0 20 20">
+                        <g fill="none" stroke="#7D7F81" stroke-width="1.4">
+                            <circle cx="9" cy="9" r="6"></circle>
+                            <path d="M13.5,13.5 L17,17" stroke-linecap="round"></path>
+                        </g>
+                    </svg>
+                    <input class="etme_header_search_form_input js-header_search" placeholder="جستجو" name="q" autocomplete="off" value="" dir="auto" title="جستجو"/>
+                    <a href="/tabnak_eco" class="etme_header_search_form_clear">
+                        <svg class="etme_action_button_icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" width="20" height="20">
+                            <g class="icon_body" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-width="1.5">
+                                <path d="M6 14l8-8m0 8L6 6" stroke-dasharray="0,11.314" stroke-dashoffset="5.657"/>
+                                <path d="M26 14l8-8m0 8l-8-8" stroke-dasharray="0.371,10.943" stroke-dashoffset="5.842"/>
+                                <path d="M46 14l8-8m0 8l-8-8" stroke-dasharray="1.982,9.332" stroke-dashoffset="6.647756"/>
+                                <path d="M66 14l8-8m0 8l-8-8" stroke-dasharray="5.173,6.14" stroke-dashoffset="8.243"/>
+                                <path d="M86 14l8-8m0 8l-8-8" stroke-dasharray="7.866,3.448" stroke-dashoffset="9.59"/>
+                                <path d="M106 14l8-8m0 8l-8-8" stroke-dasharray="9.471,1.843" stroke-dashoffset="10.392"/>
+                                <path d="M126 14l8-8m0 8l-8-8" stroke-dasharray="10.417,0.896" stroke-dashoffset="10.866"/>
+                                <path d="M146 14l8-8m0 8l-8-8" stroke-dasharray="10.961,0.353" stroke-dashoffset="11.137"/>
+                                <path d="M166 14l8-8m0 8l-8-8" stroke-dasharray="11.234,0.08" stroke-dashoffset="11.274"/>
+                                <path d="M186 14l8-8m0 8l-8-8"/>
+                            </g>
+                        </svg>
+                    </a>
+                </form>
+            </div>
+            <div class="etme_header_right_column">
+                <section class="etme_right_column">
+                    <div class="etme_channel_info">
+                        <div class="etme_channel_info_header" dir="rtl">
+                            <i class="etme_page_photo_image bgcolor5" data-content=""><img src="/download_9f9d2059163ec9a2c0fb519e7bd5007f?token=78da01b60049ff10000000564f7d9e82ccb9186e8f6ada8bb5812bfb8c8a99f6c8926c8be6c0afd15fa46cce28276a65874d667b2002b5ff97f8ad62de9f4470916ae96b8dcd8a0380297934366fbecec28af0a1ddd1607688a25b74628b7bdc36118d1cdad268f03c2fa4659fd8283c923ad8b05eff75bacbbe407a6d05296bde024dce806c827b6b3441101eb00b4f17424f12b95190e33e8e54813c116db0fe9f7281b9849ccde26e3fba63f36bcd567a1cee29da65623290f8886d72575a4e" alt=""></i>
+                            <div class="etme_channel_info_header_title_wrap">
+                                <div class="etme_channel_info_header_title"><span dir="auto">تابناک اقتصادی</span></div>
+                                                            </div>
+                            <div class="etme_channel_info_header_username"><a dir="auto" href="/tabnak_eco">@tabnak_eco</a></div>
+                        </div>
+                        <div class="etme_channel_info_counters">
+                            <div class="etme_channel_info_counter"><span class="counter_value" data-count="68">68</span> <span class="counter_type">دنبال‌کننده</span></div>
+                                                            <div class="etme_channel_info_counter"><span class="counter_value" data-count="206">206</span> <span class="counter_type">عکس</span></div>
+                                <div class="etme_channel_info_counter"><span class="counter_value" data-count="22">22</span> <span class="counter_type">ویدیو</span></div>
+                                <div class="etme_channel_info_counter"><span class="counter_value" data-count="0">0</span> <span class="counter_type">فایل</span></div>
+                                                        </div>
+                        <div class="etme_channel_info_description" dir="auto" style="white-space: pre-wrap">سفارش تبلیغات:
+09309023193</div>
+                        <a class="etme_channel_download_eitaa" href="/s/tabnak_eco/">
+                            <svg class="etme_channel_download_eitaa_icon" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="18px" height="18px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" viewBox="0 0 50 50"><g>
+                                    <path fill="#ffffff" d="M14 0l21 0c7.7,0 14,6.29 14,13.99l0 6.75c-6.9,3.11 -13.87,18.43 -24.02,15.1 -0.83,0.6 -2.76,3.04 -2.89,4.9 -3.52,-0.47 -7.57,-4.49 -7.08,-8.84 -5.85,-4.23 -1.03,-12.04 3.61,-15.18 9.95,-6.74 23.75,-0.95 16.07,3.87 -4.67,2.93 -14.65,4.87 -13.61,-2.33 -2.74,0.79 -4.49,5.9 -1.2,8.56 -3.05,3 -2.46,8.52 0.8,10.33 3.31,-8.56 14.8,-7.44 19.44,-17.65 3.49,-7.68 -1.68,-16.44 -12.04,-15.09 -7.82,1.01 -15.14,7.61 -18.81,15.42 -3.71,7.94 -3.16,18.56 4.47,23.92 8.98,6.3 18.55,0.46 24.34,-7.16 3.41,-4.5 6.4,-9.48 10.92,-12.35l0 11.97c0,7.7 -6.3,14.01 -14,14.01l-21 0c-7.7,0 -14,-6.3 -14,-14l0 -22.22c0,-7.7 6.3,-14 14,-14l0 0z"/>
+                                </g></svg>
+                            مشاهده در ایتا
+                        </a>
+                        <div class="etme_footer">
+                            <div class="etme_footer_column">
+                                <h5><a href="/faq">پرسش‌ها</a></h5>
+                            </div>
+                            <div class="etme_footer_column">
+                                <h5><a href="/pg/terms">قوانین</a></h5>
+                            </div>
+                            <div class="etme_footer_column">
+                                <h5><a href="https://trends.eitaa.com/">داغ‌ترین‌ها</a></h5>
+                            </div>
+                            <div class="etme_footer_column">
+                                <h5><a href="/#downloading">چندسکویی</a></h5>
+                            </div>
+                        </div>
+                        <img src="/cv.jpg" alt="" style="display:none;" rel="nofollow">
+                    </div>
+                </section>
+            </div>
+            <div class="etme_header_info">
+                <a class="etme_channel_join_eitaa" href="https://eitaa.com/s/tabnak_eco/">
+                    <svg class="etme_channel_join_eitaa_icon" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="18px" height="18px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" viewBox="0 0 50 50"><g>
+                            <path fill="#ffffff" d="M14 0l21 0c7.7,0 14,6.29 14,13.99l0 6.75c-6.9,3.11 -13.87,18.43 -24.02,15.1 -0.83,0.6 -2.76,3.04 -2.89,4.9 -3.52,-0.47 -7.57,-4.49 -7.08,-8.84 -5.85,-4.23 -1.03,-12.04 3.61,-15.18 9.95,-6.74 23.75,-0.95 16.07,3.87 -4.67,2.93 -14.65,4.87 -13.61,-2.33 -2.74,0.79 -4.49,5.9 -1.2,8.56 -3.05,3 -2.46,8.52 0.8,10.33 3.31,-8.56 14.8,-7.44 19.44,-17.65 3.49,-7.68 -1.68,-16.44 -12.04,-15.09 -7.82,1.01 -15.14,7.61 -18.81,15.42 -3.71,7.94 -3.16,18.56 4.47,23.92 8.98,6.3 18.55,0.46 24.34,-7.16 3.41,-4.5 6.4,-9.48 10.92,-12.35l0 11.97c0,7.7 -6.3,14.01 -14,14.01l-21 0c-7.7,0 -14,-6.3 -14,-14l0 -22.22c0,-7.7 6.3,-14 14,-14l0 0z"/>
+                        </g></svg>
+                    پیوستن
+                </a>
+                <a class="etme_header_link" href="/tabnak_eco">
+                    <i class="etme_page_photo_image bgcolor5" data-content="">
+                        <img src="/download_9f9d2059163ec9a2c0fb519e7bd5007f?token=78da01b60049ff10000000564f7d9e82ccb9186e8f6ada8bb5812bfb8c8a99f6c8926c8be6c0afd15fa46cce28276a65874d667b2002b5ff97f8ad62de9f4470916ae96b8dcd8a0380297934366fbecec28af0a1ddd1607688a25b74628b7bdc36118d1cdad268f03c2fa4659fd8283c923ad8b05eff75bacbbe407a6d05296bde024dce806c827b6b3441101eb00b4f17424f12b95190e33e8e54813c116db0fe9f7281b9849ccde26e3fba63f36bcd567a1cee29da65623290f8886d72575a4e" alt="">
+                    </i>
+                    <div class="etme_header_title_wrap">
+                        <div class="etme_header_title"><span dir="auto">تابناک اقتصادی</span></div>
+                                            </div>
+                    <div class="etme_header_counter" data-participants_count="68"><span dir="rtl">68 دنبال‌کننده</span></div>
+                </a>
+            </div>
+        </div>
+        <a class="etme_head_right_btn d-none d-lg-block" style="min-width:80px;position:fixed;right:8px;top:8px;color:#fff;" rel="nofollow" href="/dl?_=971877">دانلود</a>
+    </header>
+    <main class="etme_main" data-url="/tabnak_eco">
+        <div class="etme_container">
+            <section class="etme_channel_history js-message_history">
+                        <div class="etme_widget_message_centered js-messages_more_wrap">
+        <a href="/tabnak_eco?before=261" class="eme_messages_more js-messages_more" data-before="261"><span>مطالب قبلی</span></a>
+        </div>        <div class="etme_widget_message_wrap js-widget_message_wrap" id="261">
+                    <div class="etme_widget_message text_not_supported_wrap js-widget_message" data-post="tabnak_eco/261" data-view="eyJjIjoxLCJwIjoyLCJ0IjozLCJoIjoiIn0=">
+            <div class="etme_widget_message_user"><a href="/tabnak_eco"><i class="etme_widget_message_user_photo bgcolor5" data-content=""><img src="/download_9f9d2059163ec9a2c0fb519e7bd5007f?token=78da01b60049ff10000000564f7d9e82ccb9186e8f6ada8bb5812bfb8c8a99f6c8926c8be6c0afd15fa46cce28276a65874d667b2002b5ff97f8ad62de9f4470916ae96b8dcd8a0380297934366fbecec28af0a1ddd1607688a25b74628b7bdc36118d1cdad268f03c2fa4659fd8283c923ad8b05eff75bacbbe407a6d05296bde024dce806c827b6b3441101eb00b4f17424f12b95190e33e8e54813c116db0fe9f7281b9849ccde26e3fba63f36bcd567a1cee29da65623290f8886d72575a4e" alt=""></i></a></div>
+            <div class="etme_widget_message_bubble">
+                <i class="etme_widget_message_bubble_tail">
+                    <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                        <g fill="none">
+                            <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                            <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                            <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                            <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                        </g>
+                    </svg>
+                </i>
+                <div class="etme_widget_message_author accent_color"><a class="etme_widget_message_owner_name" href="/tabnak_eco"><span dir="auto">تابناک اقتصادی</span></a></div>
+                                                            <a class="etme_widget_message_photo_wrap" href="/s/tabnak_eco/261" style="width:90px;background-image: url('/download_bb28b460b6b42f189c5d98c43094f1bc?token=78da01a4005bff10000000215ae27e51efacfb18a1be064607f668fb8c8a99f6c8926c8be6c0afd053a364c328236662874a647e2f04b7fa95f0ae66df9a45749f62e56b91cd8a0380297a34306abdcec38afcfcd1d2687180a5597337d97f8e33418d498cd468a63b79a53799887f6a916bd3bb56aa23e69cba402d6a542b6cd6071ecad23ed6293a371e4740b50b19134a1b16be5190b13edd398c394767b9919a7585e88e9fcfea613f33584fdb')">
+                                <div class="etme_widget_message_photo" style="padding-top:66.666666666667%"></div>
+                            </a>
+                                            <div class="etme_widget_message_text js-message_text" style="white-space: pre-wrap" dir="rtl">تابناک بررسی می کند؛
+🔺️سفره بانک مرکزی برای دلالان سکه/حراج سکه یا دلال بازی؟
+
+🔹️هفتاد و نهمین حراج شمش طلای مرکز مبادله ایران امروز در حالی رقم می خورد که بررسی ها نشان می دهد این اقدام تاثیر چندانی بر بازار نداشته است.
+
+جزئیات بیشتر:
+
+<a href="http://tabnak.ir/005N8R" target="_blank" rel="nofollow"  dir="auto">tabnak.ir/005N8R</a>
+
+<a href="https://eitaa.com/tabank_eco" dir="auto">@tabank_eco</a></div>
+                <div class="etme_widget_message_footer compact js-message_footer">
+
+                    <div class="etme_widget_message_info short js-message_info">
+                        <span class="etme_widget_message_views" data-count="1">1</span><span class="copyonly"> مشاهده</span><span class="etme_widget_message_meta"><a class="etme_widget_message_date" href="/s/tabnak_eco/261"><time datetime="2024-12-31T07:36:16+00:00" class="time">07:36</time></a></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+                </div>
+                <div class="etme_widget_message_wrap js-widget_message_wrap" id="262">
+                    <div class="etme_widget_message text_not_supported_wrap js-widget_message" data-post="tabnak_eco/262" data-view="eyJjIjoxLCJwIjoyLCJ0IjozLCJoIjoiIn0=">
+            <div class="etme_widget_message_user"><a href="/tabnak_eco"><i class="etme_widget_message_user_photo bgcolor5" data-content=""><img src="/download_9f9d2059163ec9a2c0fb519e7bd5007f?token=78da01b60049ff10000000564f7d9e82ccb9186e8f6ada8bb5812bfb8c8a99f6c8926c8be6c0afd15fa46cce28276a65874d667b2002b5ff97f8ad62de9f4470916ae96b8dcd8a0380297934366fbecec28af0a1ddd1607688a25b74628b7bdc36118d1cdad268f03c2fa4659fd8283c923ad8b05eff75bacbbe407a6d05296bde024dce806c827b6b3441101eb00b4f17424f12b95190e33e8e54813c116db0fe9f7281b9849ccde26e3fba63f36bcd567a1cee29da65623290f8886d72575a4e" alt=""></i></a></div>
+            <div class="etme_widget_message_bubble">
+                <i class="etme_widget_message_bubble_tail">
+                    <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                        <g fill="none">
+                            <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                            <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                            <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                            <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                        </g>
+                    </svg>
+                </i>
+                <div class="etme_widget_message_author accent_color"><a class="etme_widget_message_owner_name" href="/tabnak_eco"><span dir="auto">تابناک اقتصادی</span></a></div>
+                                                            <a class="etme_widget_message_photo_wrap" href="/s/tabnak_eco/262" style="width:90px;background-image: url('/download_7a2a446faab2d152a3a8a580cc315ea8?token=78da01aa0055ff100000002198400e109432f95f91ecbfbb091d56fb8c8a99f6c8926c8be6c0afd053a362ce27276c67874d627c2a02b7fe96f4a764d99044769766eb6b90cd8a0380297a34306abdcec38afcfcd1d2687180a55d73658f288d33118a498cd468a63b79a53799887f6a916bd8b05afc77e098bb45286d537d3d8a544d9fd039d12c6e6748154cbc0e19451f4d12ee0590e53bd954803a4660b9919e7a86e683f2cde46c31e20ef466cd5f6918532e')">
+                                <div class="etme_widget_message_photo" style="padding-top:66.666666666667%"></div>
+                            </a>
+                                            <div class="etme_widget_message_text js-message_text" style="white-space: pre-wrap" dir="rtl">🔺️قیمت انواع سکه در بازار امروز ۱۱ دی ماه
+
+🔹️امروز قیمت سکه امامی به ۵۷,۰۰۰,۰۰۰ (پنجاه و هفت میلیون) تومان رسید که نسبت به روز قبل ، افزایش ۰.۳۵ درصدی داشته است. قیمت طلا هم پایین آمد.
+
+جزئیات بیشتر:
+
+<a href="http://tabnak.ir/005NBc" target="_blank" rel="nofollow"  dir="auto">tabnak.ir/005NBc</a>
+
+<a href="https://eitaa.com/tabnak_eco" dir="auto">@tabnak_eco</a></div>
+                <div class="etme_widget_message_footer compact js-message_footer">
+
+                    <div class="etme_widget_message_info short js-message_info">
+                        <span class="etme_widget_message_views" data-count="1">1</span><span class="copyonly"> مشاهده</span><span class="etme_widget_message_meta"><a class="etme_widget_message_date" href="/s/tabnak_eco/262"><time datetime="2024-12-31T07:57:48+00:00" class="time">07:57</time></a></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+                </div>
+                <div class="etme_widget_message_wrap js-widget_message_wrap" id="263">
+                    <div class="etme_widget_message text_not_supported_wrap js-widget_message" data-post="tabnak_eco/263" data-view="eyJjIjoxLCJwIjoyLCJ0IjozLCJoIjoiIn0=">
+            <div class="etme_widget_message_user"><a href="/tabnak_eco"><i class="etme_widget_message_user_photo bgcolor5" data-content=""><img src="/download_9f9d2059163ec9a2c0fb519e7bd5007f?token=78da01b60049ff10000000564f7d9e82ccb9186e8f6ada8bb5812bfb8c8a99f6c8926c8be6c0afd15fa46cce28276a65874d667b2002b5ff97f8ad62de9f4470916ae96b8dcd8a0380297934366fbecec28af0a1ddd1607688a25b74628b7bdc36118d1cdad268f03c2fa4659fd8283c923ad8b05eff75bacbbe407a6d05296bde024dce806c827b6b3441101eb00b4f17424f12b95190e33e8e54813c116db0fe9f7281b9849ccde26e3fba63f36bcd567a1cee29da65623290f8886d72575a4e" alt=""></i></a></div>
+            <div class="etme_widget_message_bubble">
+                <i class="etme_widget_message_bubble_tail">
+                    <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                        <g fill="none">
+                            <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                            <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                            <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                            <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                        </g>
+                    </svg>
+                </i>
+                <div class="etme_widget_message_author accent_color"><a class="etme_widget_message_owner_name" href="/tabnak_eco"><span dir="auto">تابناک اقتصادی</span></a></div>
+                                                            <a class="etme_widget_message_photo_wrap" href="/s/tabnak_eco/263" style="width:90px;background-image: url('/download_8696b34a43ad7c455b984b9d08e93b6d?token=78da01a4005bff10000000155d5981058e28431e008e9f8ccdc571fb8c8a99f6c8926c8be6c0afd053a461c8232b6d62874f6c772a03b6fc90f8aa65df9945739267e96b91cd8a0380297a34306abdcec38afcfcd1d2687180a5597365d628d362178b4f87d43da13879a132cd8e2b3d993ed1b15ba220b49bbd402c6a0f2b6cd6071fcad23fd6293a371c4540b50b19134a1947ed5390b63d89398b3a4e61b3919a7585e88e9fcfea613fe5a74d11')">
+                                <div class="etme_widget_message_photo" style="padding-top:66.666666666667%"></div>
+                            </a>
+                                            <div class="etme_widget_message_text js-message_text" style="white-space: pre-wrap" dir="rtl">🔺️انتظار پاداش و عیدی
+
+🔹️باوجودی که به اواسط دی ماه نزدیک می شویم و باید حقوق و دستمزد کارگران سال آینده مشخص شود اما همچنان خبری از برگزاری جلسات تعیین مزد نیست.
+
+جزئیات بیشتر:
+
+<a href="http://tabnak.ir/005N9U" target="_blank" rel="nofollow"  dir="auto">tabnak.ir/005N9U</a>
+
+<a href="https://eitaa.com/tabnak_eco" dir="auto">@tabnak_eco</a></div>
+                <div class="etme_widget_message_footer compact js-message_footer">
+
+                    <div class="etme_widget_message_info short js-message_info">
+                        <span class="etme_widget_message_views" data-count="130">130</span><span class="copyonly"> مشاهده</span><span class="etme_widget_message_meta"><a class="etme_widget_message_date" href="/s/tabnak_eco/263"><time datetime="2024-12-31T08:30:12+00:00" class="time">08:30</time></a></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+                </div>
+                <div class="etme_widget_message_wrap js-widget_message_wrap" id="264">
+                    <div class="etme_widget_message text_not_supported_wrap js-widget_message" data-post="tabnak_eco/264" data-view="eyJjIjoxLCJwIjoyLCJ0IjozLCJoIjoiIn0=">
+            <div class="etme_widget_message_user"><a href="/tabnak_eco"><i class="etme_widget_message_user_photo bgcolor5" data-content=""><img src="/download_9f9d2059163ec9a2c0fb519e7bd5007f?token=78da01b60049ff10000000564f7d9e82ccb9186e8f6ada8bb5812bfb8c8a99f6c8926c8be6c0afd15fa46cce28276a65874d667b2002b5ff97f8ad62de9f4470916ae96b8dcd8a0380297934366fbecec28af0a1ddd1607688a25b74628b7bdc36118d1cdad268f03c2fa4659fd8283c923ad8b05eff75bacbbe407a6d05296bde024dce806c827b6b3441101eb00b4f17424f12b95190e33e8e54813c116db0fe9f7281b9849ccde26e3fba63f36bcd567a1cee29da65623290f8886d72575a4e" alt=""></i></a></div>
+            <div class="etme_widget_message_bubble">
+                <i class="etme_widget_message_bubble_tail">
+                    <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                        <g fill="none">
+                            <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                            <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                            <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                            <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                        </g>
+                    </svg>
+                </i>
+                <div class="etme_widget_message_author accent_color"><a class="etme_widget_message_owner_name" href="/tabnak_eco"><span dir="auto">تابناک اقتصادی</span></a></div>
+                                                            <a class="etme_widget_message_photo_wrap" href="/s/tabnak_eco/264" style="width:90px;background-image: url('/download_2ee239e5d74d8b7e06ab1cd02c4675be?token=78da01a5005aff100000008cceae47f2042991ce91d568cff766fefb8c8a99f6c8926c8be6c0afd053a560cf242a6663874d647b2c00bbf891f8af62de9141729066e56b91cd8a0380297a34306abdcec38afcfcd1d2687180a50a7333de21da67428b1d8adc38a23171a333cb852c69c23bd0eb0eae29e1cae8152c6a532b6cd60718cad230d0253d624e4548b20a1f134a1817be5490b1378b39893b4264b1fcf47386eb8094cee0613fe26ae3525f')">
+                                <div class="etme_widget_message_photo" style="padding-top:88.888888888889%"></div>
+                            </a>
+                                            <div class="etme_widget_message_text js-message_text" style="white-space: pre-wrap" dir="rtl">🔺️جهش ۲۴ هزار واحدی شاخص کل بورس 
+
+🔹 شاخص کل بورس با رشد ۲۴ هزار واحدی در پایان معاملات امروز به ۲ میلیون و ۷۵۹ هزار واحد رسید.
+
+🔹 شاخص کل هم (وزن): ۲۵ واحد مثبت
+
+🔹 ارزش معاملات: ۱۳۴۵۶۰ میلیارد تومان
+
+<a href="https://eitaa.com/tabank_eco" dir="auto">@tabank_eco</a></div>
+                <div class="etme_widget_message_footer compact js-message_footer">
+
+                    <div class="etme_widget_message_info short js-message_info">
+                        <span class="etme_widget_message_views" data-count="168">168</span><span class="copyonly"> مشاهده</span><span class="etme_widget_message_meta"><a class="etme_widget_message_date" href="/s/tabnak_eco/264"><time datetime="2024-12-31T09:05:01+00:00" class="time">09:05</time></a></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+                </div>
+                <div class="etme_widget_message_wrap js-widget_message_wrap" id="265">
+                    <div class="etme_widget_message text_not_supported_wrap js-widget_message" data-post="tabnak_eco/265" data-view="eyJjIjoxLCJwIjoyLCJ0IjozLCJoIjoiIn0=">
+            <div class="etme_widget_message_user"><a href="/tabnak_eco"><i class="etme_widget_message_user_photo bgcolor5" data-content=""><img src="/download_9f9d2059163ec9a2c0fb519e7bd5007f?token=78da01b60049ff10000000564f7d9e82ccb9186e8f6ada8bb5812bfb8c8a99f6c8926c8be6c0afd15fa46cce28276a65874d667b2002b5ff97f8ad62de9f4470916ae96b8dcd8a0380297934366fbecec28af0a1ddd1607688a25b74628b7bdc36118d1cdad268f03c2fa4659fd8283c923ad8b05eff75bacbbe407a6d05296bde024dce806c827b6b3441101eb00b4f17424f12b95190e33e8e54813c116db0fe9f7281b9849ccde26e3fba63f36bcd567a1cee29da65623290f8886d72575a4e" alt=""></i></a></div>
+            <div class="etme_widget_message_bubble">
+                <i class="etme_widget_message_bubble_tail">
+                    <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                        <g fill="none">
+                            <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                            <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                            <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                            <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                        </g>
+                    </svg>
+                </i>
+                <div class="etme_widget_message_author accent_color"><a class="etme_widget_message_owner_name" href="/tabnak_eco"><span dir="auto">تابناک اقتصادی</span></a></div>
+                                                            <a class="etme_widget_message_photo_wrap" href="/s/tabnak_eco/265" style="width:90px;background-image: url('/download_8b6583466e876ea64c29205931d22b59?token=78da019e0061ff100000001366131339489308d60ddc21df60e199fb8c8a99f6c8926c8be6c0afd053a561cb212b6b62874d607d2108b6f196f1ab63db9b45729e65e46b84cd8a0380297a34306abdcec38afcfcd1d2687180a50e73658f7fdc3546df1d8ad433f23d78f462cc842b3e9031d2be5daa24e79dbc417b3b53783bda534ccdd06bdd2d386648161be7081413194c40800696e7368f39893c4362b9fc987b88e685ab4bd2')">
+                                <div class="etme_widget_message_photo" style="padding-top:65.555555555556%"></div>
+                            </a>
+                                            <div class="etme_widget_message_text js-message_text" style="white-space: pre-wrap" dir="rtl">🔺️قیمت خودرو در بازار امروز ۱۱ دی ماه
+
+🔹️قيمت هاي بازار در تاريخ بروز رساني با همکاري حداقل ۳۰ نمايشگاه اتومبيل در شهر تهران در سايت ثبت مي شود.
+
+جزئیات بیشتر:
+
+<a href="http://tabnak.ir/005NC3" target="_blank" rel="nofollow"  dir="auto">tabnak.ir/005NC3</a>
+
+<a href="https://eitaa.com/tabank_eco" dir="auto">@tabank_eco</a></div>
+                <div class="etme_widget_message_footer compact js-message_footer">
+
+                    <div class="etme_widget_message_info short js-message_info">
+                        <span class="etme_widget_message_views" data-count="195">195</span><span class="copyonly"> مشاهده</span><span class="etme_widget_message_meta"><a class="etme_widget_message_date" href="/s/tabnak_eco/265"><time datetime="2024-12-31T09:07:10+00:00" class="time">09:07</time></a></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+                </div>
+                <div class="etme_widget_message_wrap js-widget_message_wrap" id="266">
+                    <div class="etme_widget_message text_not_supported_wrap js-widget_message" data-post="tabnak_eco/266" data-view="eyJjIjoxLCJwIjoyLCJ0IjozLCJoIjoiIn0=">
+            <div class="etme_widget_message_user"><a href="/tabnak_eco"><i class="etme_widget_message_user_photo bgcolor5" data-content=""><img src="/download_9f9d2059163ec9a2c0fb519e7bd5007f?token=78da01b60049ff10000000564f7d9e82ccb9186e8f6ada8bb5812bfb8c8a99f6c8926c8be6c0afd15fa46cce28276a65874d667b2002b5ff97f8ad62de9f4470916ae96b8dcd8a0380297934366fbecec28af0a1ddd1607688a25b74628b7bdc36118d1cdad268f03c2fa4659fd8283c923ad8b05eff75bacbbe407a6d05296bde024dce806c827b6b3441101eb00b4f17424f12b95190e33e8e54813c116db0fe9f7281b9849ccde26e3fba63f36bcd567a1cee29da65623290f8886d72575a4e" alt=""></i></a></div>
+            <div class="etme_widget_message_bubble">
+                <i class="etme_widget_message_bubble_tail">
+                    <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                        <g fill="none">
+                            <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                            <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                            <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                            <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                        </g>
+                    </svg>
+                </i>
+                <div class="etme_widget_message_author accent_color"><a class="etme_widget_message_owner_name" href="/tabnak_eco"><span dir="auto">تابناک اقتصادی</span></a></div>
+                                                            <a class="etme_widget_message_photo_wrap" href="/s/tabnak_eco/266" style="width:90px;background-image: url('/download_a5b2f57a2685092044dcc7f28fb3345e?token=78da01a4005bff10000000dd20338b8f27e229ee5bc3f82e2fdf8ffb8c8a99f6c8926c8be6c0afd053a666cd20216a64874d617f2802b1ff92f4ad60d99142739e66ef6b91cd8a0380297a34306abdcec38afcfcd1d2687180a5087365dd2bd361138b4f87d43da13879a132cd8e2b3d993ed1b15ba220b4cfb9102b3b517069dd554d9fd16bdd2d696e1c1e48b50919134a1844ef5290b03edf398a394e66b2919a7585e88e9fcfea613f49775053')">
+                                <div class="etme_widget_message_photo" style="padding-top:66.666666666667%"></div>
+                            </a>
+                                            <div class="etme_widget_message_text js-message_text" style="white-space: pre-wrap" dir="rtl">درآمد ۳۵ هزار میلیارد تومانی از فروش اموال مازاد دولت در اصفهان
+
+وزیر اقتصاد:
+🔹بزرگ‌ترین مورد مولدسازی با رقمی بالغ بر ۳۵ هزار میلیارد تومان در اصفهان تحقق پیدا کرد.
+
+<a href="https://eitaa.com/tabank_eco" dir="auto">@tabank_eco</a></div>
+                <div class="etme_widget_message_footer compact js-message_footer">
+
+                    <div class="etme_widget_message_info short js-message_info">
+                        <span class="etme_widget_message_views" data-count="206">206</span><span class="copyonly"> مشاهده</span><span class="etme_widget_message_meta"><a class="etme_widget_message_date" href="/s/tabnak_eco/266"><time datetime="2024-12-31T09:35:16+00:00" class="time">09:35</time></a></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+                </div>
+                <div class="etme_widget_message_wrap js-widget_message_wrap" id="267">
+                    <div class="etme_widget_message text_not_supported_wrap js-widget_message" data-post="tabnak_eco/267" data-view="eyJjIjoxLCJwIjoyLCJ0IjozLCJoIjoiIn0=">
+            <div class="etme_widget_message_user"><a href="/tabnak_eco"><i class="etme_widget_message_user_photo bgcolor5" data-content=""><img src="/download_9f9d2059163ec9a2c0fb519e7bd5007f?token=78da01b60049ff10000000564f7d9e82ccb9186e8f6ada8bb5812bfb8c8a99f6c8926c8be6c0afd15fa46cce28276a65874d667b2002b5ff97f8ad62de9f4470916ae96b8dcd8a0380297934366fbecec28af0a1ddd1607688a25b74628b7bdc36118d1cdad268f03c2fa4659fd8283c923ad8b05eff75bacbbe407a6d05296bde024dce806c827b6b3441101eb00b4f17424f12b95190e33e8e54813c116db0fe9f7281b9849ccde26e3fba63f36bcd567a1cee29da65623290f8886d72575a4e" alt=""></i></a></div>
+            <div class="etme_widget_message_bubble">
+                <i class="etme_widget_message_bubble_tail">
+                    <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                        <g fill="none">
+                            <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                            <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                            <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                            <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                        </g>
+                    </svg>
+                </i>
+                <div class="etme_widget_message_author accent_color"><a class="etme_widget_message_owner_name" href="/tabnak_eco"><span dir="auto">تابناک اقتصادی</span></a></div>
+                                                            <a class="etme_widget_message_photo_wrap" href="/s/tabnak_eco/267" style="width:90px;background-image: url('/download_80f6087e169306e9388f9f4a644560c6?token=78da01a4005bff10000000e230eef9067621409e5962e552a13420fb8c8a99f6c8926c8be6c0afd053a660c929276a60874d637e2a03b7f99ff9a963d59d41759664e46b91cd8a0380297a34306abdcec38afcfcd1d2687180a5597366da2b8f62428b4f87d43da13879a132cd8e2b3d993ed1b15ba220b4c9bd162d6a532b6cd60748cad26ad6293a374c1240b40b19134a1816bc5190b638853989384263b5919a7585e88e9fcfea613fb75b4e50')">
+                                <div class="etme_widget_message_photo" style="padding-top:66.666666666667%"></div>
+                            </a>
+                                            <div class="etme_widget_message_text js-message_text" style="white-space: pre-wrap" dir="rtl">سرپرست سازمان نظام مهندسی ساختمان در گفتگو با تابناک:
+
+🔺️برنامه هفتم توسعه، راهگشای صرفه جویی انرژی در ساختمان/۴۰ درصد هدررفت انرژی از دیوار‌ها
+
+سرپرست سازمان نظام مهندسی ساختمان گفت: 
+🔹️خریدار باید بداند که ملک مورد نظرش از نظر مصرف انرژی و کیفیت ساخت، در چه وضعیتی قرار دارد.
+
+جزئییات بیشتر:
+
+<a href="http://tabnak.ir/005McA" target="_blank" rel="nofollow"  dir="auto">tabnak.ir/005McA</a>
+
+<a href="https://eitaa.com/tabank_eco" dir="auto">@tabank_eco</a></div>
+                <div class="etme_widget_message_footer compact js-message_footer">
+
+                    <div class="etme_widget_message_info short js-message_info">
+                        <span class="etme_widget_message_views" data-count="229">229</span><span class="copyonly"> مشاهده</span><span class="etme_widget_message_meta"><a class="etme_widget_message_date" href="/s/tabnak_eco/267"><time datetime="2024-12-31T09:41:21+00:00" class="time">09:41</time></a></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+                </div>
+                <div class="etme_widget_message_wrap js-widget_message_wrap" id="268">
+                    <div class="etme_widget_message text_not_supported_wrap js-widget_message" data-post="tabnak_eco/268" data-view="eyJjIjoxLCJwIjoyLCJ0IjozLCJoIjoiIn0=">
+            <div class="etme_widget_message_user"><a href="/tabnak_eco"><i class="etme_widget_message_user_photo bgcolor5" data-content=""><img src="/download_9f9d2059163ec9a2c0fb519e7bd5007f?token=78da01b60049ff10000000564f7d9e82ccb9186e8f6ada8bb5812bfb8c8a99f6c8926c8be6c0afd15fa46cce28276a65874d667b2002b5ff97f8ad62de9f4470916ae96b8dcd8a0380297934366fbecec28af0a1ddd1607688a25b74628b7bdc36118d1cdad268f03c2fa4659fd8283c923ad8b05eff75bacbbe407a6d05296bde024dce806c827b6b3441101eb00b4f17424f12b95190e33e8e54813c116db0fe9f7281b9849ccde26e3fba63f36bcd567a1cee29da65623290f8886d72575a4e" alt=""></i></a></div>
+            <div class="etme_widget_message_bubble">
+                <i class="etme_widget_message_bubble_tail">
+                    <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                        <g fill="none">
+                            <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                            <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                            <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                            <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                        </g>
+                    </svg>
+                </i>
+                <div class="etme_widget_message_author accent_color"><a class="etme_widget_message_owner_name" href="/tabnak_eco"><span dir="auto">تابناک اقتصادی</span></a></div>
+                                                            <a class="etme_widget_message_photo_wrap" href="/s/tabnak_eco/268" style="width:90px;background-image: url('/download_8a97e30a20d07e746e38007874cc27e5?token=78da01aa0055ff10000000fd0d369f03154a2c9aebd08602ebad54fb8c8a99f6c8926c8be6c0afd051a567ce23226b62874d627d2c02bafa9ff4ab6fd59a44749766eb6b90cd8a0380297a34306abdcec38afcfcd1d2687180a50e7364db7b8a3440df1d8ad433f23d78f462cc842b3e9031d1b80dfc77bbc1bc46286a552a698b52189bd639852f6d64494541b45a1510194d40ed0390e53bda578f3a4765b991937389ed81f2cde46c31e20ef466cd5fde6353ef')">
+                                <div class="etme_widget_message_photo" style="padding-top:66.666666666667%"></div>
+                            </a>
+                                            <div class="etme_widget_message_text js-message_text" style="white-space: pre-wrap" dir="rtl">🔺️خروج پول از بورس متوقف شد
+
+🔹️در جریان معاملات امروز بورس، گروه بانکی و فلزات موتور محرک بازار سهام بودند.
+
+جزئیات بیشتر:
+
+<a href="http://tabnak.ir/005NDz" target="_blank" rel="nofollow"  dir="auto">tabnak.ir/005NDz</a>
+
+<a href="https://eitaa.com/tabank_eco" dir="auto">@tabank_eco</a></div>
+                <div class="etme_widget_message_footer compact js-message_footer">
+
+                    <div class="etme_widget_message_info short js-message_info">
+                        <span class="etme_widget_message_views" data-count="260">260</span><span class="copyonly"> مشاهده</span><span class="etme_widget_message_meta"><a class="etme_widget_message_date" href="/s/tabnak_eco/268"><time datetime="2025-01-01T05:39:17+00:00" class="time">05:39</time></a></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+                </div>
+                <div class="etme_widget_message_wrap js-widget_message_wrap" id="269">
+                    <div class="etme_widget_message text_not_supported_wrap js-widget_message" data-post="tabnak_eco/269" data-view="eyJjIjoxLCJwIjoyLCJ0IjozLCJoIjoiIn0=">
+            <div class="etme_widget_message_user"><a href="/tabnak_eco"><i class="etme_widget_message_user_photo bgcolor5" data-content=""><img src="/download_9f9d2059163ec9a2c0fb519e7bd5007f?token=78da01b60049ff10000000564f7d9e82ccb9186e8f6ada8bb5812bfb8c8a99f6c8926c8be6c0afd15fa46cce28276a65874d667b2002b5ff97f8ad62de9f4470916ae96b8dcd8a0380297934366fbecec28af0a1ddd1607688a25b74628b7bdc36118d1cdad268f03c2fa4659fd8283c923ad8b05eff75bacbbe407a6d05296bde024dce806c827b6b3441101eb00b4f17424f12b95190e33e8e54813c116db0fe9f7281b9849ccde26e3fba63f36bcd567a1cee29da65623290f8886d72575a4e" alt=""></i></a></div>
+            <div class="etme_widget_message_bubble">
+                <i class="etme_widget_message_bubble_tail">
+                    <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                        <g fill="none">
+                            <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                            <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                            <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                            <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                        </g>
+                    </svg>
+                </i>
+                <div class="etme_widget_message_author accent_color"><a class="etme_widget_message_owner_name" href="/tabnak_eco"><span dir="auto">تابناک اقتصادی</span></a></div>
+                                                            <a class="etme_widget_message_photo_wrap" href="/s/tabnak_eco/269" style="width:90px;background-image: url('/download_875defb2e9ca18957d0e62e31e5e31c2?token=78da01a4005bff10000000da3b8fbebfcb4ab70ea4746d243b4342fb8c8a99f6c8926c8be6c0afd051a567ce28206d648749657c2e03b1fa95f8af6eda9f42739762ea6b91cd8a0380297a34306abdcec38afcfcd1d2687180a55f7364dd2dda671d8b1d8adc38a23171a333cb852c69c23bd0eb0eae29e19bb942703f527e688c531cccd26cd6293a374f4348b40b14134a1917e85290b63ade398a3e4765b8919a7585e88e9fcfea613f00f64fec')">
+                                <div class="etme_widget_message_photo" style="padding-top:57.777777777778%"></div>
+                            </a>
+                                            <div class="etme_widget_message_text js-message_text" style="white-space: pre-wrap" dir="rtl">رئیس کمیسیون ویژه جهش تولید در گفتگو با تابناک
+🔺️اف ای تی اف تنها راه حل بحران اقتصادی ایران را نیست/ اصلاحات مدیریتی داخلی، راه‌حل واقعی است
+
+🔹️رهبر انقلاب با بررسی مجدد لوایح «پالرمو» و «CFT» در مجمع تشخیص مصلحت نظام موافقت کرد. وزیر اقتصاد این خبر را اعلام کرده و گفت امیدوار است تصویب این لوایح به رفع محدودیت‌های مالی و اقتصادی ایران کمک کند. با این حال، رئیس کمیسیون ویژه جهش تولید مجلس، تأکید کرد که حل مشکلات اقتصادی کشور تنها به تصویب FATF بستگی ندارد و اصلاحات داخلی نیز باید در اولویت قرار گیرد.
+
+جزئیات بیشتر:
+
+<a href="http://tabnak.ir/005ND9" target="_blank" rel="nofollow"  dir="auto">tabnak.ir/005ND9</a>
+
+<a href="https://eitaa.com/tabnak_eco" dir="auto">@tabnak_eco</a></div>
+                <div class="etme_widget_message_footer compact js-message_footer">
+
+                    <div class="etme_widget_message_info short js-message_info">
+                        <span class="etme_widget_message_views" data-count="343">343</span><span class="copyonly"> مشاهده</span><span class="etme_widget_message_meta"><a class="etme_widget_message_date" href="/s/tabnak_eco/269"><time datetime="2025-01-01T05:39:35+00:00" class="time">05:39</time></a></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+                </div>
+                <div class="etme_widget_message_wrap js-widget_message_wrap" id="270">
+                    <div class="etme_widget_message text_not_supported_wrap js-widget_message" data-post="tabnak_eco/270" data-view="eyJjIjoxLCJwIjoyLCJ0IjozLCJoIjoiIn0=">
+            <div class="etme_widget_message_user"><a href="/tabnak_eco"><i class="etme_widget_message_user_photo bgcolor5" data-content=""><img src="/download_9f9d2059163ec9a2c0fb519e7bd5007f?token=78da01b60049ff10000000564f7d9e82ccb9186e8f6ada8bb5812bfb8c8a99f6c8926c8be6c0afd15fa46cce28276a65874d667b2002b5ff97f8ad62de9f4470916ae96b8dcd8a0380297934366fbecec28af0a1ddd1607688a25b74628b7bdc36118d1cdad268f03c2fa4659fd8283c923ad8b05eff75bacbbe407a6d05296bde024dce806c827b6b3441101eb00b4f17424f12b95190e33e8e54813c116db0fe9f7281b9849ccde26e3fba63f36bcd567a1cee29da65623290f8886d72575a4e" alt=""></i></a></div>
+            <div class="etme_widget_message_bubble">
+                <i class="etme_widget_message_bubble_tail">
+                    <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                        <g fill="none">
+                            <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                            <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                            <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                            <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                        </g>
+                    </svg>
+                </i>
+                <div class="etme_widget_message_author accent_color"><a class="etme_widget_message_owner_name" href="/tabnak_eco"><span dir="auto">تابناک اقتصادی</span></a></div>
+                                                            <a class="etme_widget_message_photo_wrap" href="/s/tabnak_eco/270" style="width:90px;background-image: url('/download_cc0cfc244cf4145db880db224a010a38?token=78da01a4005bff10000000129b6a5430bd762f84fe02a6d662460efb8c8a99f6c8926c8be6c0afd051a567cd252a6d60874a60782c06b0f190f3ae6fdf9849729563ec6b91cd8a0380297a34306abdcec38afcfcd1d2687180a5597337db7d8e36458d498cd468a63b79a53799887f6a916bd3bb56aa23e6cae9167f6a552b39d6074ccad23bd6293a374c4540b50b19134a1943bb0490b73c84398c3e436db0919a7585e88e9fcfea613f8f424ed9')">
+                                <div class="etme_widget_message_photo" style="padding-top:65.555555555556%"></div>
+                            </a>
+                                            <div class="etme_widget_message_text js-message_text" style="white-space: pre-wrap" dir="rtl">🔺️سیگنال سیاسی به بازار دلار و سکه
+
+🔹️در حالی بازارهای مالی کشور در معاملات روز سه‌شنبه تا نیمه روز در مسیر صعودی حرکت می‌کردند، اما در نهایت عملکرد بازارهای سکه و دلار در پایان روز منفی بود.
+
+<a href="https://eitaa.com/tabnak_eco" dir="auto">@tabnak_eco</a></div>
+                <div class="etme_widget_message_footer compact js-message_footer">
+
+                    <div class="etme_widget_message_info short js-message_info">
+                        <span class="etme_widget_message_views" data-count="408">408</span><span class="copyonly"> مشاهده</span><span class="etme_widget_message_meta"><a class="etme_widget_message_date" href="/s/tabnak_eco/270"><time datetime="2025-01-01T05:40:01+00:00" class="time">05:40</time></a></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+                </div>
+                <div class="etme_widget_message_wrap js-widget_message_wrap" id="271">
+                    <div class="etme_widget_message text_not_supported_wrap js-widget_message" data-post="tabnak_eco/271" data-view="eyJjIjoxLCJwIjoyLCJ0IjozLCJoIjoiIn0=">
+            <div class="etme_widget_message_user"><a href="/tabnak_eco"><i class="etme_widget_message_user_photo bgcolor5" data-content=""><img src="/download_9f9d2059163ec9a2c0fb519e7bd5007f?token=78da01b60049ff10000000564f7d9e82ccb9186e8f6ada8bb5812bfb8c8a99f6c8926c8be6c0afd15fa46cce28276a65874d667b2002b5ff97f8ad62de9f4470916ae96b8dcd8a0380297934366fbecec28af0a1ddd1607688a25b74628b7bdc36118d1cdad268f03c2fa4659fd8283c923ad8b05eff75bacbbe407a6d05296bde024dce806c827b6b3441101eb00b4f17424f12b95190e33e8e54813c116db0fe9f7281b9849ccde26e3fba63f36bcd567a1cee29da65623290f8886d72575a4e" alt=""></i></a></div>
+            <div class="etme_widget_message_bubble">
+                <i class="etme_widget_message_bubble_tail">
+                    <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                        <g fill="none">
+                            <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                            <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                            <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                            <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                        </g>
+                    </svg>
+                </i>
+                <div class="etme_widget_message_author accent_color"><a class="etme_widget_message_owner_name" href="/tabnak_eco"><span dir="auto">تابناک اقتصادی</span></a></div>
+                                                            <a class="etme_widget_message_photo_wrap" href="/s/tabnak_eco/271" style="width:90px;background-image: url('/download_34b3d0e2d5b8f78850cc7b548b47d83b?token=78da01a2005dff10000000153a76ce667db4d8a686586dd46561c3fb8c8a99f6c8926c8be6c0afd051a664cc202b6b66874d607b2c04b4fb9ef0af61df9b4575932fa548deaad95a812a2a606338b9989981fcf0d1d66871d9a55c7438dd20883340821b88d63aa33a2df0649a89263e9031d4b05ead74e59bec14703e5171698d534bced631d1293935481649b60b1d464e4a1fef54c2e2508e578f3c470ab1f99f7588ed8494c5eaa8644ffc')">
+                                <div class="etme_widget_message_photo" style="padding-top:68.888888888889%"></div>
+                            </a>
+                                            <div class="etme_widget_message_text js-message_text" style="white-space: pre-wrap" dir="rtl">🔺️افت ارزش سهام عدالت در ۲ روز!
+
+🔹️ارزش سهام عدالت یک میلیون تومانی امروز چهارشنبه ۱۲ دی ماه ۱۴۰۳ با احتساب و اعمال تمام افزایش سرمایه‌های شرکت‌های بورسی در این سهام به ۴۳ میلیون و ۹۶۳ هزار تومان رسید.
+
+جزئیات بیشتر:
+
+<a href="http://tabnak.ir/005NEY" target="_blank" rel="nofollow"  dir="auto">tabnak.ir/005NEY</a>
+
+<a href="https://eitaa.com/tabnak_eco" dir="auto">@tabnak_eco</a></div>
+                <div class="etme_widget_message_footer compact js-message_footer">
+
+                    <div class="etme_widget_message_info short js-message_info">
+                        <span class="etme_widget_message_views" data-count="488">488</span><span class="copyonly"> مشاهده</span><span class="etme_widget_message_meta"><a class="etme_widget_message_date" href="/s/tabnak_eco/271"><time datetime="2025-01-01T06:16:00+00:00" class="time">06:16</time></a></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+                </div>
+                <div class="etme_widget_message_wrap js-widget_message_wrap" id="272">
+                    <div class="etme_widget_message text_not_supported_wrap js-widget_message" data-post="tabnak_eco/272" data-view="eyJjIjoxLCJwIjoyLCJ0IjozLCJoIjoiIn0=">
+            <div class="etme_widget_message_user"><a href="/tabnak_eco"><i class="etme_widget_message_user_photo bgcolor5" data-content=""><img src="/download_9f9d2059163ec9a2c0fb519e7bd5007f?token=78da01b60049ff10000000564f7d9e82ccb9186e8f6ada8bb5812bfb8c8a99f6c8926c8be6c0afd15fa46cce28276a65874d667b2002b5ff97f8ad62de9f4470916ae96b8dcd8a0380297934366fbecec28af0a1ddd1607688a25b74628b7bdc36118d1cdad268f03c2fa4659fd8283c923ad8b05eff75bacbbe407a6d05296bde024dce806c827b6b3441101eb00b4f17424f12b95190e33e8e54813c116db0fe9f7281b9849ccde26e3fba63f36bcd567a1cee29da65623290f8886d72575a4e" alt=""></i></a></div>
+            <div class="etme_widget_message_bubble">
+                <i class="etme_widget_message_bubble_tail">
+                    <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                        <g fill="none">
+                            <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                            <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                            <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                            <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                        </g>
+                    </svg>
+                </i>
+                <div class="etme_widget_message_author accent_color"><a class="etme_widget_message_owner_name" href="/tabnak_eco"><span dir="auto">تابناک اقتصادی</span></a></div>
+                                                            <a class="etme_widget_message_photo_wrap" href="/s/tabnak_eco/272" style="width:90px;background-image: url('/download_57e13f9c25f5630614e14b2b5de76b47?token=78da01a4005bff100000007033153c1adc05aa4a40a5a5f208ae6dfb8c8a99f6c8926c8be6c0afd051a764cc282b6861874f62792b01b2fa92f0ac65dc9b46739366eb6b91cd8a0380297a34306abdcec38afcfcd1d2687180a55f7337df7fd235178d498cd468a63b79a53799887f6a916bd3bb56aa23e6c8e91b2a6a532b39d60748cad23dd6293a37401240b50b19134a1940ea0290b7388e398e3b4564b3919a7585e88e9fcfea613f5fe44e5b')">
+                                <div class="etme_widget_message_photo" style="padding-top:66.666666666667%"></div>
+                            </a>
+                                            <div class="etme_widget_message_text js-message_text" style="white-space: pre-wrap" dir="rtl">🔺️خودرو دیگر گزینه جذابی برای سرمایه‌گذاری نیست
+
+نایب رئیس اتحادیه فروشندگان خودرو تهران:
+🔹️حذف ارز نیمایی تاثیر چندانی بر قیمت بازار خودرو ندارد.
+
+🔹️این بار مانند گذشته افزایش نرخ ارز نتوانسته بر بازار اثر متناسب داشته باشد.
+
+🔹️خودرو از دو سال گذشته، گرانی را پیش‌خور کرده است.
+
+🔹️مردم دیگر خودرو را به عنوان گزینه سرمایه‌گذاری انتخاب نمی‌کنند.
+
+<a href="https://eitaa.com/tabnak_eco" dir="auto">@tabnak_eco</a></div>
+                <div class="etme_widget_message_footer compact js-message_footer">
+
+                    <div class="etme_widget_message_info short js-message_info">
+                        <span class="etme_widget_message_views" data-count="558">558</span><span class="copyonly"> مشاهده</span><span class="etme_widget_message_meta"><a class="etme_widget_message_date" href="/s/tabnak_eco/272"><time datetime="2025-01-01T06:59:50+00:00" class="time">06:59</time></a></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+                </div>
+                    </section>
+        </div>
+            </main>
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/jquery-ui.min.js"></script>
+    <script src="/js/ewallpaper.js"></script>
+    <script src="/js/etsticker.js"></script>
+    <script src="/js/widget-frame.js"></script>
+    <script src="/js/eitaa-web.js"></script>
+    <script>EWeb.init();</script>
+    <script>
+        var t, d = $('#date-float');
+        t = setTimeout(function () {
+            d.fadeOut().css('visibility', 'hidden');
+        }, 3000);
+        $(window).on('scroll', function () {
+            clearTimeout(t);
+            t = setTimeout(function () {
+                d.fadeOut().css('visibility', 'hidden');
+            }, 3000);
+            var elements = $(".etme_widget_message_service_date"), el, scroll = $(window).scrollTop(), text = elements.last().text();
+            for (var i = elements.length - 1; i >= 0; i--) {
+                el = $(elements[i]);
+                if (el.offset().top <= scroll - 40) {
+                    if ($(elements[i + 1]).length) {
+                        text = $(elements[i + 1]).text();
+                    } else {
+                        text = el.text();
+                    }
+                    break;
+                }
+            }
+            d.css('visibility', 'visible').text(text).fadeIn()
+        });
+    </script>
+</body>
+</html>
+<!-- page generated in 0.13ms -->
